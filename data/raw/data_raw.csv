@@ -1,0 +1,1511 @@
+accession,tax_id,organism_name,common_name
+GCF_000001735.4,3702,Arabidopsis thaliana,thale cress
+GCF_030704535.1,29760,Vitis vinifera,wine grape
+GCF_022201045.2,2711,Citrus sinensis,sweet orange
+GCA_019925255.1,151069,Litchi chinensis,lychee
+GCA_018223645.1,660624,Jasminum sambac,Arabian jasmine
+GCA_028456135.1,106567,Malus sieversii,
+GCA_022457165.1,91218,Juglans mandshurica,
+GCA_025617385.1,159030,Murraya koenigii,curry leaf
+GCA_025177825.1,326768,Aechmea fasciata,urn-plant
+GCA_031232105.1,462292,Capsicum rhomboideum,
+GCA_900231445.1,4567,Triticum turgidum subsp. durum,durum wheat
+GCA_916181665.1,4498,Avena sativa,oats
+GCA_947561735.1,4543,Cenchrus americanus,bulrush millet
+GCA_902687465.1,4550,Secale cereale,rye
+GCA_030408175.1,3899,Trifolium repens,white clover
+GCA_905216605.1,38785,Arabidopsis arenosa,
+GCA_025502765.1,34274,Gossypium herbaceum,Arabian cotton
+GCA_900128785.1,50452,Arabis alpina,gray rockcress
+GCA_022644695.1,154765,Cenchrus purpureus,elephant grass
+GCF_901000735.1,13451,Corylus avellana,European hazelnut
+GCA_003576665.1,35884,Ipomoea trifida,
+GCF_001406875.1,28526,Solanum pennellii,
+GCA_032464435.1,4491,Aegilops umbellulata,
+GCA_029677425.1,161112,Wolffia australiana,
+GCA_028411795.1,38846,Euphorbia peplus,
+GCA_030445155.1,103481,Quercus variabilis,
+GCA_025503065.1,47622,Gossypium bickii,
+GCA_030063025.1,4500,Avena longiglumis,
+GCA_027186245.1,79760,Coriaria nepalensis,
+GCA_030664755.1,197124,Microcos paniculata,bu za ye
+GCF_030253575.1,182163,Rhododendron vialii,
+GCA_948330725.1,29803,Sherardia arvensis,
+GCA_946896805.1,53169,Scutellaria galericulata,marsh skullcap
+GCA_030345155.1,884147,Vitis x doaniana,
+GCA_008044935.1,34284,Gossypium turneri,
+GCA_023547065.1,320322,Musa troglodytarum,fe'i banana
+GCA_028216015.1,103484,Quercus dentata,
+GCA_963425845.1,92480,Sphenostylis stenocarpa,African yam-bean
+GCF_003576645.1,35885,Ipomoea triloba,trilobed morning glory
+GCA_005610355.1,47615,Gossypioides kirkii,
+GCA_025506655.1,47633,Gossypium rotundifolium,
+GCA_013348765.1,176864,Carpinus viminea,
+GCA_023657505.1,883000,Camelina hispida,
+GCA_032401905.1,43891,Swietenia macrophylla,
+GCA_910596185.1,1478180,Chrysanthemum makinoi,
+GCA_949927565.1,75948,Lactuca saligna,
+GCA_032402905.1,587579,Khaya senegalensis,
+GCF_001433935.1,39947,Oryza sativa Japonica Group,Japanese rice
+GCF_902167145.1,4577,Zea mays,maize
+GCF_000188115.5,4081,Solanum lycopersicum,tomato
+GCF_018294505.1,4565,Triticum aestivum,bread wheat
+GCF_000004515.6,3847,Glycine max,soybean
+GCF_007990345.1,3635,Gossypium hirsutum,cotton
+GCF_904849725.1,112509,Hordeum vulgare subsp. vulgare,domesticated barley
+GCF_020379485.1,3708,Brassica napus,rape
+GCF_000309985.2,3711,Brassica rapa,field mustard
+GCF_002114115.1,3750,Malus domestica,apple
+GCF_003473485.1,3880,Medicago truncatula,barrel medic
+GCF_000003195.3,4558,Sorghum bicolor,sorghum
+GCF_000004075.3,3659,Cucumis sativus,cucumber
+GCF_003086295.2,3818,Arachis hypogaea,peanut
+GCF_002878395.1,4072,Capsicum annuum,
+GCF_000346465.2,3760,Prunus persica,peach
+GCF_000499845.1,3885,Phaseolus vulgaris,string bean
+GCF_000695525.1,109376,Brassica oleracea var. oleracea,
+GCF_025177605.1,3656,Cucumis melo,muskmelon
+GCF_001659605.2,3983,Manihot esculenta,cassava
+GCF_000331145.1,3827,Cicer arietinum,chickpea
+GCA_002525835.2,4120,Ipomoea batatas,sweet potato
+GCF_000005505.3,15368,Brachypodium distachyon,stiff brome
+GCF_002870075.4,4236,Lactuca sativa,garden lettuce
+GCF_900626175.2,3483,Cannabis sativa,
+GCF_000313855.2,214687,Musa acuminata subsp. malaccensis,wild Malaysian banana
+GCF_000002775.5,3694,Populus trichocarpa,black cottonwood
+GCA_019022445.1,3747,Fragaria x ananassa,strawberry
+GCF_030052815.1,3981,Hevea brasiliensis,rubber tree
+GCF_002127325.2,4232,Helianthus annuus,common sunflower
+GCF_024323335.1,3888,Pisum sativum,garden pea
+GCF_002742605.1,158386,Olea europaea var. sylvestris,wild olive
+GCF_000263155.2,4555,Setaria italica,foxtail millet
+GCA_029034555.1,3654,Citrullus lanatus,wild melon
+GCF_011075055.1,29780,Mangifera indica,mango
+GCF_000442705.1,51953,Elaeis guineensis,African oil palm
+GCA_018703725.1,3707,Brassica juncea,brown mustard
+GCF_000801105.2,3726,Raphanus sativus,radish
+GCA_009663005.1,3625,Actinidia chinensis,golden kiwifruit
+GCA_020205605.1,4054,Panax ginseng,jinsão
+GCA_020631735.1,4547,Saccharum officinarum,sugarcane
+GCF_026745355.1,3555,Beta vulgaris subsp. vulgaris,sugar beet
+GCF_020796205.1,714518,Ziziphus jujuba var. spinosa,
+GCA_019514585.1,142615,Dendrobium officinale,
+GCF_012489685.1,34305,Lotus japonicus,
+GCA_018997955.1,3634,Gossypium barbadense,sea-island cotton
+GCF_000512975.1,4182,Sesamum indicum,sesame
+GCF_025698485.1,29729,Gossypium arboreum,tree cotton
+GCF_016808335.1,38727,Panicum virgatum,switchgrass
+GCF_003713225.1,13443,Coffea arabica,coffee
+GCA_030765085.1,4679,Allium cepa,onion
+GCF_028751815.1,226208,Salvia miltiorrhiza,Chinese salvia
+GCF_000184155.1,101020,Fragaria vesca subsp. vesca,
+GCA_023541355.1,4529,Oryza rufipogon,common wild rice
+GCA_016801055.1,44586,Panax notoginseng,san-qi
+GCF_000208745.1,3641,Theobroma cacao,cacao
+GCF_007655135.1,22663,Punica granatum,pomegranate
+GCF_004118075.2,3917,Vigna unguiculata,cowpea
+GCF_000741045.1,3916,Vigna radiata var. radiata,mung bean
+GCF_019359855.1,4522,Lolium perenne,perennial ryegrass
+GCA_948472305.1,3906,Vicia faba,fava bean
+GCA_015852605.2,3696,Populus deltoides,
+GCF_016545825.1,71139,Eucalyptus grandis,rose gum
+GCF_000340665.2,3821,Cajanus cajan,pigeon pea
+GCA_012066045.3,3498,Morus alba,white mulberry
+GCF_001540865.1,4615,Ananas comosus,pineapple
+GCA_029852735.1,3435,Persea americana,avocado
+GCF_001411555.2,51240,Juglans regia,English walnut
+GCF_002994745.2,74649,Rosa chinensis,China rose
+GCA_014964335.1,4084,Solanum pimpinellifolium,currant tomato
+GCF_019578655.1,3988,Ricinus communis,castor bean
+GCA_028777405.1,35925,Diospyros kaki,kaki persimmon
+GCA_029641205.1,37334,Citrus maxima,yu
+GCA_022316695.1,385388,Camellia oleifera,abura-tsubaki
+GCF_009389715.1,42345,Phoenix dactylifera,date palm
+GCA_018804465.1,118781,Populus tomentosa,Chinese white poplar
+GCA_002319775.1,62330,Fagopyrum tataricum,Tartarian buckwheat
+GCF_002575655.2,200361,Aegilops tauschii subsp. strangulata,
+GCF_005286985.1,4556,Setaria viridis,
+GCF_030272615.1,3369,Cryptomeria japonica,Japanese cedar
+GCA_024713555.1,29656,Spirodela polyrhiza,great duckweed
+GCF_020520425.1,3562,Spinacia oleracea,spinach
+GCF_000633955.1,90675,Camelina sativa,false flax
+GCF_002806865.2,3664,Cucurbita pepo subsp. pepo,vegetable marrow
+GCF_001625215.1,79200,Daucus carota subsp. sativus,
+GCF_932294415.1,38942,Quercus robur,English oak
+GCA_024454175.1,3627,Actinidia deliciosa,Chinese gooseberry
+GCF_018446385.1,94328,Zingiber officinale,ginger
+GCF_902201215.1,3755,Prunus dulcis,almond
+GCA_026413185.1,3893,Pueraria montana var. lobata,kudzu vine
+GCA_032594955.1,4540,Panicum miliaceum,broom millet
+GCF_000346735.1,102107,Prunus mume,Japanese apricot
+GCA_016647705.1,4392,Eucommia ulmoides,
+GCA_030737875.1,4682,Allium sativum,garlic
+GCF_018687715.1,32201,Carya illinoinensis,pecan
+GCF_003573695.1,3469,Papaver somniferum,opium poppy
+GCA_020226455.1,88123,Prunus salicina,su-momo
+GCA_021464415.1,105884,Lonicera japonica,Japanese honeysuckle
+GCA_018350135.1,37690,Citrus trifoliata,hardy orange
+GCA_003430845.1,99658,Xanthoceras sorbifolium,yellow-horn
+GCA_009761775.1,3494,Ficus carica,common fig
+GCF_001876935.1,4686,Asparagus officinalis,garden asparagus
+GCA_009805545.1,4528,Oryza longistaminata,red rice
+GCF_016808095.1,3914,Vigna angularis,adzuki bean
+GCA_018132145.1,396368,Boehmeria nivea var. tenacissima,
+GCF_000147395.1,4538,Oryza glaberrima,African rice
+GCA_023091065.1,3570,Dianthus caryophyllus,clove pink
+GCA_951802175.1,3691,Populus nigra,Lombardy poplar
+GCF_004193775.1,3848,Glycine soja,wild soybean
+GCF_019175385.1,112863,Lycium barbarum,goji berry
+GCA_016771965.1,52824,Brassica carinata,Abyssinian mustard
+GCA_020205615.1,44588,Panax quinquefolius,
+GCF_020283565.1,57577,Trifolium pratense,peavine clover
+GCA_019395295.1,93977,Osmanthus fragrans,sweet osmanthus
+GCA_023846275.1,51239,Vanilla planifolia,cultivated vanilla
+GCA_014218235.1,4460,Colocasia esculenta,taro
+GCA_016071775.1,103351,Vitis amurensis,
+GCA_033030585.1,193516,Hippophae rhamnoides,sea buckthorn
+GCF_025698545.1,29730,Gossypium raimondii,Peruvian cotton
+GCA_016432845.1,120290,Psidium guajava,guava
+GCA_022984855.1,128017,Dimocarpus longan,longan
+GCA_030145905.1,266767,Populus davidiana,
+GCA_007844245.1,436086,Pyrus betulifolia,
+GCA_003952965.2,262757,Morella rubra,Chinese bayberry
+GCF_001865875.1,3871,Lupinus angustifolius,narrow-leaved blue lupine
+GCA_030737815.1,35875,Allium fistulosum,Welsh onion
+GCA_958298935.1,29695,Phragmites australis,common reed
+GCA_000576495.2,40148,Oryza glumipatula,
+GCA_030254885.1,103349,Vitis rotundifolia,muscadine
+GCA_002890555.2,3668,Lagenaria siceraria,white-flowered gourd
+GCA_030142095.1,32247,Rubus idaeus,European raspberry
+GCA_028015215.1,182084,Gynostemma pentaphyllum,jiaogulan
+GCA_020875875.1,55571,Dioscorea alata,Guyana arrowroot
+GCA_022539455.1,94219,Dendrobium nobile,
+GCA_016624345.1,94286,Platycodon grandiflorus,jie geng
+GCA_028984105.1,39329,Lavandula angustifolia,lavender
+GCA_010577795.1,161756,Isatis tinctoria,woad
+GCA_005771605.1,65409,Scutellaria baicalensis,Baikal skullcap
+GCA_009905375.1,4045,Apium graveolens,
+GCA_019097785.1,38873,Fraxinus excelsior,European ash
+GCA_022457205.1,62335,Saccharum spontaneum,fodder cane
+GCF_003073215.2,4572,Triticum urartu,
+GCF_009727055.1,102211,Benincasa hispida,wax gourd
+GCF_002162155.2,85692,Triticum dicoccoides,wild emmer wheat
+GCA_019155195.1,82927,Avicennia marina,
+GCA_016760335.1,91201,Gastrodia elata,
+GCA_023653625.1,139772,Triadica sebifera,popcorn-tree
+GCA_000576065.2,4536,Oryza nivara,
+GCA_032199755.1,4212,Ambrosia artemisiifolia,common ragweed
+GCA_023525715.1,13427,Cichorium intybus,chicory
+GCA_009771035.1,3870,Lupinus albus,white lupine
+GCA_023678885.1,28511,Pogostemon cablin,patchouli
+GCA_022749755.1,124943,Azadirachta indica,neem
+GCA_030545235.1,4233,Helianthus tuberosus,Jerusalem artichoke
+GCA_019776745.2,29808,Taxus chinensis,Chinese yew
+GCA_009363875.1,192012,Mikania micrantha,bittervine
+GCA_013103745.1,114476,Gardenia jasminoides,
+GCF_004353265.1,96939,Vitis riparia,riverbank grape
+GCA_028274465.1,185002,Plantago ovata,blond psyllium
+GCA_907173295.1,28930,Fagus sylvatica,European beech
+GCF_001879085.1,49451,Nicotiana attenuata,
+GCF_001531365.2,59895,Cynara cardunculus var. scolymus,artichoke
+GCA_030378355.1,29674,Eleusine indica,goosegrass
+GCA_030770085.1,77588,Oryza coarctata,
+GCA_030347555.1,35936,Lablab purpureus,natoba
+GCA_017139565.1,3670,Luffa aegyptiaca,smooth loofah
+GCA_030686995.1,259893,Artemisia argyi,
+GCA_030272315.1,158149,Paspalum vaginatum,silt grass
+GCA_013389735.1,3884,Phaseolus lunatus,lima bean
+GCA_004837865.1,52838,Musa balbisiana,Balbis banana
+GCA_007827005.2,295327,Populus simonii,
+GCA_022559845.1,78372,Amorphophallus konjac,konnyaku
+GCA_030979885.1,4521,Lolium multiflorum,Italian ryegrass
+GCA_014182545.1,34317,Eucalyptus globulus,blue gum
+GCA_016618105.1,154293,Dendrobium huoshanense,
+GCF_000817695.3,130453,Arachis duranensis,
+GCA_028551475.1,3523,Casuarina equisetifolia,
+GCA_009763385.1,1156411,Coix lacryma-jobi var. lacryma-jobi,
+GCA_023525745.1,4217,Arctium lappa,great burdock
+GCA_030867185.1,13708,Tagetes erecta,African marigold
+GCA_911865555.2,13288,Thlaspi arvense,
+GCA_029582165.1,46147,Portulaca oleracea,
+GCA_000338895.3,40149,Oryza meridionalis,Australian wild rice
+GCA_030549335.1,44947,Pontederia crassipes,water hyacinth
+GCA_000182155.4,65489,Oryza barthii,African wild rice
+GCF_000231095.2,4533,Oryza brachyantha,malo sina
+GCA_017311315.1,257763,Dendrocalamus latiflorus,sweet bamboo
+GCF_010389155.1,72917,Erigeron canadensis,horseweed
+GCA_017979445.1,155132,Akebia trifoliata,
+GCA_021234005.1,151071,Nephelium lappaceum,rambutan
+GCA_019321725.1,586722,Paulownia fortunei,
+GCA_021764765.1,3908,Vicia sativa,tare
+GCA_018208015.1,70973,Medicago ruthenica,
+GCF_023119035.1,49212,Salvia hispanica,
+GCA_900059795.1,49390,Coffea canephora,robusta coffee
+GCA_912172775.2,56036,Fraxinus pennsylvanica,green ash
+GCA_025413875.1,49168,Rhododendron molle,
+GCF_947179165.1,45834,Solanum dulcamara,climbing nightshade
+GCA_018361395.1,72658,Boechera stricta,
+GCA_026413675.1,492479,Populus pruinosa,hui hu yang
+GCA_027405865.1,77065,Salix purpurea,purple osier
+GCA_030549775.1,189791,Tamarix chinensis,
+GCA_023638005.1,126418,Forsythia suspensa,
+GCA_028751855.1,4214,Ambrosia trifida,giant ragweed
+GCA_019202805.1,45249,Arabidopsis suecica,
+GCF_013401445.1,458696,Tripterygium wilfordii,
+GCF_014633365.1,55363,Diospyros lotus,date-plum
+GCA_019925795.1,161865,Dendrobium chrysotoxum,
+GCF_002211085.1,206008,Panicum hallii,
+GCA_032847665.1,4083,Solanum chilense,
+GCA_000753965.2,28502,Amaranthus hypochondriacus,grain amaranth
+GCA_002993905.1,183675,Miscanthus sacchariflorus,Amur silver grass
+GCA_022530915.1,147272,Paspalum notatum,Bahia grass
+GCA_028830015.1,192399,Eucalyptus grandis x Eucalyptus urophylla,
+GCA_030345395.1,1501231,Prunus mongolica,
+GCA_021397845.1,184783,Areca catechu,areca-nut
+GCF_933775445.1,57926,Potentilla anserina,silverweed cinquefoil
+GCA_000573905.2,4537,Oryza punctata,
+GCA_022606695.1,13750,Vaccinium macrocarpon,American cranberry
+GCA_027726005.1,13579,Juncus effusus,common rush
+GCA_024586325.1,142738,Stellera chamaejasme,
+GCA_010134655.1,64941,Fragaria nilgerrensis,
+GCA_028654395.1,396367,Scutellaria barbata,
+GCF_029873635.1,397392,Malania oleifera,
+GCF_004379255.2,180675,Salvia splendens,bonfire salvia
+GCA_020080225.1,266091,Gynochthodes officinalis,ba ji
+GCA_958299785.1,47085,Medicago lupulina,
+GCA_011696235.1,103485,Quercus mongolica,Mongolian oak
+GCA_011799875.1,4588,Thinopyrum elongatum,tall wheatgrass
+GCA_026873135.1,99020,Eucalyptus urophylla,
+GCA_028641055.1,81473,Alopecurus myosuroides,
+GCA_021437245.1,4573,Aegilops speltoides,
+GCA_029856935.1,117167,Cyclocarya paliurus,qing qian liu
+GCA_030169165.1,347529,Centaurea solstitialis,yellow centaury
+GCF_014773155.1,217475,Arachis stenosperma,
+GCA_026586065.1,325984,Dioscorea zingiberensis,
+GCA_030490815.1,4024,Acer saccharum,sugar maple
+GCA_025403435.1,3489,Artocarpus heterophyllus,jackfruit
+GCA_028551395.1,3522,Casuarina glauca,swamp oak
+GCF_001633185.2,97700,Quercus lobata,valley oak
+GCA_021464305.1,413952,Kandelia obovata,
+GCA_019320115.1,154761,Miscanthus floridulus,
+GCA_958449725.1,74645,Rosa rugosa,Japanese rose
+GCA_023374045.1,293754,Limonium bicolor,
+GCA_029030765.1,1278906,Salix suchowensis,
+GCF_003713205.1,49369,Coffea eugenioides,
+GCA_021533255.1,61143,Ceriops tagal,
+GCA_014636745.1,48106,Centella asiatica,ji xue cao
+GCA_029816415.1,528022,Melastoma malabathricum subsp. normale,
+GCA_015680905.1,261450,Coptis chinensis,
+GCA_958496215.1,79772,Verbena officinalis,kumatsuzura
+GCA_948465745.1,3559,Chenopodium album,pigweed
+GCA_946807835.1,2768810,Ailanthus altissimus,stinking sumac
+GCA_958979055.1,3517,Alnus glutinosa,
+GCA_025698465.1,34280,Gossypium longicalyx,
+GCA_025698475.1,47600,Gossypium anomalum,
+GCA_018144435.1,34277,Gossypium tomentosum,
+GCA_033088355.1,1567104,Citrullus amarus,
+GCA_027789145.1,376710,Solanum arcanum,
+GCA_009720345.1,64939,Fragaria iinumae,
+GCA_014843725.1,132429,Amphicarpaea edgeworthii,Chinese hog-peanut
+GCA_025175895.1,199627,Wurfbainia villosa,sha ren
+GCA_026545765.1,29818,Plantago major,common plantain
+GCA_022113865.1,13419,Chimonanthus praecox,wintersweet
+GCA_017165895.1,34275,Gossypium mustelinum,
+GCA_000218505.1,98039,Schrenkiella parvula,
+GCA_020226265.1,151332,Prunus mira,
+GCA_030444775.1,76974,Atalantia buxifolia,
+GCA_002189035.1,13748,Utricularia gibba,humped bladderwort
+GCA_028052125.1,155640,Melia azedarach,lian
+GCA_002916485.2,16719,Juglans nigra,black walnut
+GCA_030762895.1,49840,Sophora flavescens,
+GCA_016403345.1,80754,Corylus heterophylla,
+GCA_004368105.3,183838,Eucalyptus melliodora,
+GCA_025169955.1,75699,Salix arbutifolia,
+GCA_019671005.1,455430,Hibiscus mutabilis,fuyo
+GCA_951799995.1,3900,Trifolium subterraneum,
+GCF_019202715.1,165200,Actinidia eriantha,
+GCA_020916435.1,483875,Oxytropis ochrocephala,
+GCA_020205505.1,44685,Panax japonicus,Japanese ginseng
+GCF_026212465.1,29722,Amaranthus tricolor,Chinese spinach
+GCA_031304145.1,289799,Cardiospermum halicacabum,
+GCA_029228465.1,40686,Salix viminalis,osier
+GCA_001642375.2,38859,Mentha longifolia,horsemint
+GCA_003412495.2,113446,Echium plantagineum,
+GCA_024174645.1,161101,Lemna minuta,
+GCF_013358625.1,60698,Macadamia integrifolia,macadamia nut
+GCA_004135705.1,435756,Alloteropsis semialata,
+GCF_000816755.2,130454,Arachis ipaensis,
+GCA_024086825.1,858909,Abrus pulchellus subsp. cantoniensis,
+GCA_018340775.1,2778344,Taxus wallichiana var. yunnanensis,
+GCA_023558565.1,525641,Artemisia tridentata subsp. tridentata,
+GCA_950022295.1,55777,Bromus sterilis,poverty brome
+GCA_023525975.1,185202,Smallanthus sonchifolius,
+GCA_023935145.1,28529,Bretschneidera sinensis,
+GCA_026545225.1,60118,Cornus controversa,
+GCA_028749045.1,13469,Cupressus sempervirens,
+GCA_027405835.1,48545,Asclepias syriaca,
+GCA_029255685.2,39875,Silene conica,
+GCA_951799425.1,4298,Ilex aquifolium,English holly
+GCF_020921035.1,178133,Rhodamnia argentea,silver malletwood
+GCA_030064435.1,236973,Trapa incisa,
+GCA_030279155.1,205691,Forsythia viridissima,
+GCA_945999865.1,104324,Vitis cinerea var. helleri x Vitis rupestris,
+GCA_026401315.1,330163,Dysphania ambrosioides,Jerusalem-tea
+GCA_947179155.2,4052,Hedera helix,English ivy
+GCA_948329865.1,43171,Linaria vulgaris,common toadflax
+GCA_028015225.1,140873,Carex myosuroides,
+GCF_004785595.1,2249226,Juglans microcarpa x Juglans regia,
+GCA_021527575.1,482298,Ensete glaucum,
+GCA_009078335.1,2182728,Salix brachista,
+GCF_916048215.2,3752,Malus sylvestris,European crab apple
+GCA_023736055.1,103489,Quercus glauca,
+GCA_029891385.1,1862640,Erythroxylum novogranatense,
+GCA_030762865.1,4138,Leonurus japonicus,yi mu cao
+GCA_030142015.1,4424,Brasenia schreberi,
+GCA_019914945.1,4733,Typha latifolia,common cattail
+GCA_963082935.1,1184610,Malus x robusta,Siberian crab apple
+GCA_022496015.1,4519,Hordeum marinum,seaside barley
+GCA_946800305.1,70936,Medicago arabica,
+GCA_958450325.1,39848,Agrostemma githago,corn cockle
+GCA_019914995.1,145231,Acanthochlamys bracteata,
+GCA_963242795.1,486065,Inga leiocalycina,
+GCA_019845555.1,158543,Aristolochia fimbriata,
+GCA_029379385.1,32244,Quillaja saponaria,
+GCA_019202795.1,1240361,Arabidopsis thaliana x Arabidopsis arenosa,
+GCA_014851425.1,362788,Senna tora,
+GCA_025667525.1,99038,Glebionis coronaria,crown daisy
+GCA_030490835.1,49314,Annona cherimola,cherimoya
+GCA_024500025.1,219868,Syzygium aromaticum,clove
+GCA_032727855.1,58334,Quercus ilex,holly oak
+GCA_947561395.1,4002,Buxus sempervirens,
+GCA_963556465.1,258209,Berberis vulgaris,European barberry
+GCA_015143295.1,13715,Tetracentron sinense,
+GCA_011114355.1,544730,Carex littledalei,
+GCA_014282245.1,118357,Rhododendron simsii,
+GCA_004329165.1,455371,Spatholobus suberectus,
+GCF_907164915.1,253017,Impatiens glandulifera,
+GCA_005393395.2,47621,Gossypium australe,
+GCA_020921065.1,229202,Vaccinium darrowii,
+GCA_024704745.1,74648,Rosa lucieae,memorial rose
+GCA_026770425.1,115915,Boechera divaricarpa,
+GCA_023653495.1,119954,Melastoma candidum,
+GCA_020826895.1,1291450,Aquilegia kansuensis,
+GCA_029783415.1,402998,Anisodus acutangulus,
+GCA_016432835.1,3710,Brassica nigra,black mustard
+GCA_029490685.1,2849020,Nepeta tenuifolia,
+GCA_020226215.1,2590455,Sindora glabra,
+GCA_022985045.1,512563,Macadamia tetraphylla,poppel nut
+GCA_021442155.1,112615,Cymbidium sinense,
+GCA_024721245.1,170351,Mitragyna speciosa,kratom
+GCA_025594385.1,4023,Acer negundo,box elder
+GCA_015476505.1,240450,Urochloa ruziziensis,Congo grass
+GCA_026214975.1,50765,Gentiana macrophylla,
+GCA_012931725.1,155299,Litsea cubeba,may chang
+GCA_022545495.1,146996,Chrysanthemum lavandulifolium,
+GCA_007726485.1,38414,Eragrostis curvula,weeping love grass
+GCA_018901935.1,557876,Pugionium cornutum,
+GCA_025688845.1,396994,Cucumis hystrix,
+GCA_022817965.1,142760,Solanum lycopersicoides,
+GCF_009730915.1,55577,Dioscorea cayenensis subsp. rotundata,Guinea yam
+GCF_022539505.1,89674,Lolium rigidum,
+GCA_012295215.1,56866,Luffa acutangula,ridged gourd
+GCA_013146195.2,103999,Codonopsis lanceolata,
+GCA_023539305.1,185493,Ilex asprella,
+GCA_904067115.1,58530,Aegilops sharonensis,
+GCA_013621005.1,561484,Aeschynomene evenia,
+GCF_019186545.1,172797,Solanum stenotomum,
+GCA_030864225.1,40320,Capsicum baccatum var. pendulum,piment chien
+GCA_019706035.1,109997,Raphanus raphanistrum subsp. raphanistrum,
+GCA_954870635.1,143172,Arctium minus,
+GCA_024322285.1,192045,Musa beccarii,
+GCA_026929855.1,93036,Poa annua,
+GCA_030407385.1,109975,Solanum americanum,
+GCA_029948455.1,45839,Solanum rostratum,
+GCF_029962835.1,86752,Magnolia sinica,
+GCA_033060915.1,194712,Euryodendron excelsum,
+GCA_020496765.1,47602,Gossypium stocksii,
+GCF_937616625.2,3986,Mercurialis annua,annual mercury
+GCA_018127125.1,479676,Rhododendron griersonianum,
+GCA_023621385.1,103490,Quercus gilva,
+GCA_030954485.1,519315,Citrullus mucosospermus,egusi melon
+GCA_031439595.1,1071199,Pterocarpus santalinus,
+GCA_947179395.2,56535,Pulicaria dysenterica,
+GCA_958296335.1,473050,Urtica urens,
+GCA_954870855.1,1053395,Scutellaria minor,
+GCA_946800695.1,57919,Geum urbanum,
+GCA_949130495.1,4202,Sambucus nigra,European elder
+GCA_946814005.1,13055,Chamaenerion angustifolium,fireweed
+GCA_029844215.1,337188,Przewalskia tangutica,
+GCA_018894105.1,185774,Jacaranda mimosifolia,
+GCA_015731905.1,1413687,Salix dunnii,
+GCA_934048045.1,137693,Polygonum aviculare,
+GCA_954871525.1,33127,Parietaria judaica,
+GCA_031216125.1,106130,Dalbergia cochinchinensis,Thai rosewood
+GCA_946800315.1,102599,Misopates orontium,
+GCA_023864065.1,2864041,Camelina neglecta,
+GCA_030064425.1,236974,Trapa bicornis,
+GCF_018873765.1,54955,Telopea speciosissima,
+GCA_947034835.1,194200,Ballota nigra,black horehound
+GCA_963555705.1,13597,Ligustrum vulgare,common privet
+GCA_032871835.1,168575,Dipteronia dyeriana,
+GCA_007990325.1,34276,Gossypium darwinii,
+GCA_954870475.1,475003,Euphrasia confusa,
+GCA_024222315.1,228974,Thymus quinquecostatus,ibuki-jako-so
+GCA_031216405.1,219892,Syzygium malaccense,pomerac
+GCA_958295605.1,49984,Ajuga chamaepitys,
+GCA_030015575.1,51501,Agapanthus africanus,African lily
+GCA_025506415.1,163089,Flaveria robusta,
+GCA_951394345.1,267548,Salicornia ramosissima,
+GCA_954870985.1,97023,Trifolium fragiferum,
+GCA_031216105.1,862910,Dalbergia cultrata,
+GCA_008009225.1,1000413,Acer yangbiense,
+GCA_023614405.1,283872,Avena insularis,
+GCA_946800325.1,59018,Luzula sylvatica,
+GCA_029378325.1,796727,Elaeagnus macrophylla,
+GCA_963210345.1,486073,Inga oerstediana,
+GCA_019705995.1,1028570,Raphanus raphanistrum x Raphanus sativus,
+GCA_958450335.1,2862204,Hibiscus tridactylites,
+GCA_019359835.1,38686,Pharus latifolius,
+GCA_910589765.1,366594,Avena atlantica,
+GCA_963422505.1,59425,Pseudognaphalium luteoalbum,
+GCA_031470985.1,39271,Agastache rugosa,
+GCA_031770325.1,651555,Bolboschoenus planiculmis,
+GCA_963457585.1,1053398,Spergularia bocconei,
+GCA_025594145.1,48773,Primulina tabacum,
+GCA_951804385.1,97021,Trifolium dubium,
+GCA_023512835.1,227909,Taxillus chinensis,
+GCA_020205555.1,44682,Panax stipuleanatus,
+GCA_963555745.1,50462,Cardamine flexuosa,woodland bittercress
+GCA_019916065.1,292385,Vitellaria paradoxa,shea-buttertree
+GCA_031216235.1,334483,Syzygium jambos,rose-apple
+GCA_022405105.1,266420,Aristolochia contorta,bei ma dou ling
+GCA_028551485.1,29737,Casuarina cunninghamiana,
+GCF_008831285.2,210225,Nymphaea colorata,pocket water lily
+GCA_013350335.1,2855397,Chimonanthus salicifolius,
+GCA_019426215.1,168488,Buddleja alternifolia,
+GCA_030180135.1,71234,Orychophragmus violaceus,
+GCA_017893485.1,1249515,Hemerocallis citrina,
+GCA_951800085.1,57932,Comarum palustre,
+GCA_011420285.1,330168,Erysimum cheiranthoides,
+GCA_030737835.1,55184,Acorus gramineus,shi chang pu
+GCA_022965805.1,1245227,Primulina eburnea,
+GCA_016801395.1,1616479,Leptodermis oblonga,
+GCA_019022515.1,1495044,Quercus aquifolioides,
+GCA_012295165.1,272863,Asparagus setaceus,asparagus fern
+GCA_910589775.1,146534,Avena eriantha,
+GCA_008932095.1,2448454,Pyrus ussuriensis x Pyrus communis,
+GCA_025200525.1,1840588,Camellia lanceoleosa,
+GCA_030844895.1,3045818,Ambrosia x helenae,
+GCA_025506515.1,4227,Flaveria trinervia,
+GCA_019425755.1,117272,Amaranthus cruentus,prince's feather
+GCA_954870605.1,66205,Acer campestre,hedge maple
+GCA_018257905.1,141003,Gillenia trifoliata,Bowman's root
+GCA_019656835.1,49169,Rhododendron ovatum,
+GCA_030737845.1,4465,Acorus calamus,flagroot
+GCA_016920895.1,180763,Vaccinium myrtillus,bilberry
+GCF_029867415.1,3911,Vicia villosa,hairy vetch
+GCA_018703695.1,151433,Prunus fruticosa,European dwarf cherry
+GCA_029204005.1,889485,Salix udensis,
+GCA_032356905.1,77062,Salix exigua,coyote willow
+GCA_029228605.1,2511006,Salix koriyanagi,
+GCA_014858505.1,360336,Corymbia citriodora subsp. variegata,
+GCA_025413485.1,66385,Ficus microcarpa,Indian laurel fig
+GCA_029228515.1,444605,Populus alba x Populus x berolinensis,
+GCA_006937295.1,176857,Carpinus fangiana,
+GCA_023333625.1,883134,Bothriochloa decipiens,
+GCF_029784015.1,112874,Lycium ferocissimum,
+GCA_013407115.1,45691,Glycine latifolia,
+GCA_000325765.3,77586,Leersia perrieri,
+GCA_004027125.1,34273,Gossypium thurberi,
+GCA_013677245.1,34287,Gossypium davidsonii,
+GCA_013677235.1,34286,Gossypium klotzschianum,
+GCA_013677255.1,34285,Gossypium harknessii,
+GCA_020567845.1,2488266,Rhododendron henanense subsp. lingbaoense,
+GCA_030864215.1,113210,Capsicum pubescens,manzano
+GCA_030378225.1,1905575,Knoxia roxburghii,
+GCA_024500155.1,1640932,Chenopodium formosanum,
+GCA_949775105.1,529605,Oldenlandia corymbosa var. corymbosa,
+GCA_028671895.1,305802,Oenanthe sinensis,
+GCA_030544415.1,210077,Thalia dealbata,
+GCA_028017165.1,386182,Herpetospermum pedunculosum,
+GCA_030763125.1,193515,Hippophae gyantsensis,
+GCA_027725995.1,198213,Rhynchospora tenuis,
+GCA_030848705.1,360622,Heracleum sosnowskyi,
+GCA_027563935.1,328769,Costus lasius,
+GCA_021018995.1,146544,Chloranthus sessilifolius,
+GCA_963556525.1,157165,Cochlearia excelsa,
+GCA_031216115.1,346999,Senna siamea,
+GCA_946000715.1,152274,Vitis cinerea var. helleri x Vitis riparia,
+GCA_946000675.1,152275,Vitis riparia x Vitis rupestris,
+GCA_028095005.1,906938,Rhynchospora pubera,
+GCA_016097545.1,1230916,Eucalyptus victrix,
+GCA_031439585.1,108278,Pterocarpus macrocarpus,
+GCA_027562975.1,2022672,Rhynchospora breviuscula,
+GCA_030064385.1,164942,Melaleuca quinquenervia,
+GCA_025698515.1,34278,Gossypium sturtianum,
+GCA_014182725.1,2654256,Eucalyptus brandiana,
+GCA_017140165.1,1234624,Eucalyptus shirleyi,
+GCA_900464855.2,52706,Musa schizocarpa,
+GCA_017140475.1,1711299,Eucalyptus fibrosa,
+GCA_016097485.1,2660567,Eucalyptus sideroxylon x Eucalyptus melliodora,
+GCA_029379335.1,532139,Thymus mandschuricus,
+GCA_902729315.2,51605,Spirodela intermedia,
+GCA_014182855.1,87681,Eucalyptus regnans,
+GCA_014182405.1,1541731,Eucalyptus sideroxylon,mugga ironbark
+GCA_014182885.2,1711195,Eucalyptus caleyi,
+GCA_014182735.1,87660,Corymbia maculata,
+GCA_017140185.1,1711482,Eucalyptus polyanthemos subsp. polyanthemos,
+GCA_030444885.1,2899277,Citrus sp. QX-2021,
+GCA_016097605.1,183827,Eucalyptus guilfoylei,
+GCA_022379115.2,167791,Bauhinia variegata,mountain ebony
+GCA_014182555.1,34314,Eucalyptus erythrocorys,illyarie
+GCA_014182895.1,34308,Angophora floribunda,
+GCA_014182515.1,34315,Eucalyptus microcorys,tallowwood
+GCA_021605145.1,4483,Aegilops bicornis,
+GCA_017140255.1,2779373,Eucalyptus paniculata subsp. matutina,
+GCA_008638375.1,561372,Nyssa sinensis,
+GCA_014182365.1,183854,Eucalyptus tenuipes,
+GCA_007844105.2,2594499,Rhamnella rubrinervis,
+GCA_017140595.1,34319,Eucalyptus curtisii,
+GCA_017140615.1,452569,Eucalyptus cladocalyx,
+GCA_032719365.1,32240,Prinsepia uniflora,
+GCA_017140325.1,1711375,Eucalyptus leucophloia subsp. euroa,
+GCA_031216185.1,219865,Syzygium aqueum,
+GCA_031216285.1,1489818,Syzygium syzygioides,
+GCA_014182695.1,183809,Eucalyptus albens,
+GCA_016097595.1,452574,Eucalyptus pumila,
+GCA_014182395.1,3025359,Eucalyptus sp. ANBG9806169,
+GCA_014182375.1,2654258,Eucalyptus virginea,
+GCA_017140395.1,87673,Eucalyptus lansdowneana,
+GCA_009725075.1,79833,Coix aquatica,
+GCA_022702705.1,420342,Papilionanthe hookeriana x Papilionanthe teres,
+GCA_014182575.1,1711251,Eucalyptus decipiens,
+GCA_014182845.1,34324,Corymbia calophylla,
+GCA_026225825.1,434235,Pistacia integerrima,
+GCA_027742785.1,157742,Vigna reflexopilosa,
+GCA_014182715.1,34320,Eucalyptus cloeziana,gympie messmate
+GCA_020226225.1,151430,Prunus davidiana,David's peach
+GCA_947650365.1,119999,Chionographis japonica,
+GCA_023065735.1,59211,Coffea humblotiana,
+GCA_030789695.1,82011,Scilla litardierei,
+GCA_014182585.1,881201,Eucalyptus coolabah,coolibah
+GCA_024085815.1,4225,Flaveria linearis,
+GCA_025583645.1,1641373,Gossypium ekmanianum,
+GCA_018691285.1,37648,Cucurbita argyrosperma subsp. sororia,
+GCA_025506505.1,343904,Flaveria sonorensis,
+GCA_014182565.1,183836,Eucalyptus marginata,
+GCA_016097615.1,1711249,Eucalyptus dawsonii,
+GCA_021605205.1,4486,Aegilops longissima,
+GCA_028583415.1,273540,Protea cynaroides,king protea
+GCA_025215565.1,41578,Flaveria ramosissima,
+GCA_026229545.1,434234,Pistacia atlantica,
+GCA_014182385.1,155764,Eucalyptus viminalis,
+GCA_022036555.1,91518,Microstegium vimineum,Vietnamese stilt grass
+GCA_024034495.1,359823,Camelina laxa,
+GCA_022432975.1,198562,Begonia masoniana,
+GCA_028015245.1,2054765,Cardamine occulta,
+GCA_003313485.2,160364,Penstemon barbatus,
+GCA_024500145.1,553044,Gentiana dahurica var. dahurica,
+GCA_007115665.2,99814,Sequoiadendron giganteum,giant sequoia
+GCA_026212405.1,41233,Petrea volubilis,queen's wreath
+GCA_025413025.1,462830,Ficus hispida,
+GCA_022433065.1,200023,Begonia loranthoides,
+GCA_019804595.1,106618,Bruguiera parviflora,
+GCA_003063285.2,227691,Arachis monticola,
+GCA_029168755.1,220113,Tillandsia fasciculata,cardinal airplant
+GCA_022433055.1,1406276,Begonia peltatifolia,
+GCA_012295235.1,1492673,Primulina huaijiensis,
+GCA_001484125.2,746018,Arabis montbretiana,
+GCA_027562315.1,160685,Costus pulverulentus,
+GCA_012979555.1,74524,Trifolium occidentale,
+GCA_009746105.1,262921,Rhododendron williamsianum,
+GCA_013677275.1,34291,Gossypium schwendimanii,
+GCA_013467495.1,34282,Gossypium gossypioides,
+GCA_013467465.1,34281,Gossypium trilobum,
+GCA_013467485.1,34289,Gossypium lobatum,
+GCA_013487665.1,34290,Gossypium aridum,
+GCA_013511315.1,34288,Gossypium laxum,
+GCA_013677265.1,34283,Gossypium armourianum,
+GCF_000150535.2,3649,Carica papaya,papaya
+GCA_030159175.1,74613,Glycyrrhiza uralensis,gan zao
+GCA_026008535.1,48386,Perilla frutescens,beefsteak-mint
+GCA_008326285.1,4535,Oryza officinalis,
+GCA_030159115.1,1837144,Actinidia arguta var. hypoleuca,
+GCA_016586305.1,157934,Ophiorrhiza pumila,
+GCA_030161315.1,75806,Eutrema japonicum,wasabe
+GCA_001662345.2,101978,Metrosideros polymorpha var. glaberrima,
+GCA_030159155.1,165716,Actinidia rufa,nashi-kazura
+GCA_030159135.1,64480,Actinidia polygama,
+GCF_000715135.1,4097,Nicotiana tabacum,common tobacco
+GCF_000226075.1,4113,Solanum tuberosum,potato
+GCF_004153795.1,4442,Camellia sinensis,black tea
+GCA_030674075.2,4006,Linum usitatissimum,flax
+GCA_900465005.1,128810,Saccharum hybrid cultivar,sugarcane
+GCF_014843425.1,180498,Jatropha curcas,
+GCA_011038535.1,38705,Phyllostachys edulis,mosochiku
+GCA_000787875.1,4111,Solanum melongena,eggplant
+GCA_016587475.1,3767,Pyrus pyrifolia,sha li
+GCF_002207925.1,42229,Prunus avium,sweet cherry
+GCA_900067695.1,3329,Picea abies,Norway spruce
+GCA_028651295.1,4058,Catharanthus roseus,Madagascar periwinkle
+GCA_003258625.1,85571,Citrus reticulata,mandarin orange
+GCF_001683475.1,63459,Chenopodium quinoa,quinoa
+GCA_014504835.1,69266,Vaccinium corymbosum,American blueberry
+GCA_024626585.1,3311,Ginkgo biloba,maidenhair tree
+GCA_900078215.1,63677,Arabidopsis halleri subsp. gemmifera,
+GCF_019419815.1,225117,Pyrus x bretschneideri,Chinese white pear
+GCF_000004255.2,81972,Arabidopsis lyrata subsp. lyrata,
+GCF_000365185.1,4432,Nelumbo nucifera,sacred lotus
+GCA_004303065.2,3617,Fagopyrum esculentum,common buckwheat
+GCF_000504015.1,4155,Erythranthe guttata,spotted monkey flower
+GCA_000966675.3,3330,Picea glauca,white spruce
+GCA_021604985.1,191504,Eleusine coracana subsp. coracana,Indian finger millet
+GCA_903112645.1,36596,Prunus armeniaca,apricot
+GCF_000478725.1,72664,Eutrema salsugineum,saltwater cress
+GCA_006176705.1,13894,Cocos nucifera,coconut palm
+GCA_001633085.1,4222,Carthamus tinctorius,safflower
+GCA_027924645.1,28977,Cunninghamia lanceolata,China fir
+GCA_963169115.1,3486,Humulus lupulus,European hop
+GCF_001995035.1,3673,Momordica charantia,bitter melon
+GCA_001517045.1,3357,Pseudotsuga menziesii,Douglas-fir
+GCA_014183005.1,60419,Castanea mollissima,Chinese chestnut
+GCA_001185155.1,29655,Zostera marina,
+GCA_014162995.1,35608,Artemisia annua,sweet wormwood
+GCA_001602275.1,309978,Zoysia japonica,zoysia
+GCA_000404065.3,3352,Pinus taeda,loblolly pine
+GCA_025388495.1,136217,Curcuma longa,turmeric
+GCA_032362305.1,35924,Paeonia lactiflora,Chinese peony
+GCA_026586085.1,3832,Cyamopsis tetragonoloba,guar
+GCF_009805555.1,175694,Andrographis paniculata,
+GCA_011022345.1,153471,Populus alba x Populus glandulosa,
+GCA_003013225.1,212056,Phalaenopsis aphrodite,
+GCF_005239225.1,43335,Populus alba,white poplar
+GCA_947311845.1,4545,Poa pratensis,Kentucky bluegrass
+GCA_030407325.1,4443,Camellia japonica,common camellia
+GCF_000493195.1,85681,Citrus x clementina,clementine
+GCA_030267885.1,3544,Mesembryanthemum crystallinum,common iceplant
+GCA_009936405.2,55670,Stevia rebaudiana,
+GCA_008808055.3,29706,Sporobolus alterniflorus,smooth cordgrass
+GCF_000375325.1,81985,Capsella rubella,
+GCA_001974825.2,93759,Corchorus olitorius,Nalta jute
+GCF_000495115.2,75702,Populus euphratica,Euphrates poplar
+GCA_013391885.1,23110,Hydrangea macrophylla,
+GCA_017589665.1,176265,Selenicereus undatus,dragon fruit
+GCA_002156105.1,78168,Passiflora edulis,passion fruit
+GCA_001412135.1,52853,Silene latifolia subsp. alba,white campion
+GCA_021397835.1,3735,Moringa oleifera,horseradish tree
+GCA_002911635.1,35974,Santalum album,white sandalwood
+GCA_000970635.1,110835,Eragrostis tef,tef
+GCA_027924585.1,54800,Larix kaempferi,karamatsu
+GCA_005392925.1,210372,Aquilaria sinensis,
+GCF_002738345.1,3661,Cucurbita maxima,winter squash
+GCA_900332095.2,132261,Cuscuta campestris,field dodder
+GCF_018835915.1,87088,Vigna umbellata,mambi-bean
+GCF_000463585.1,28532,Tarenaya hassleriana,spider flower
+GCF_001263595.1,78828,Phalaenopsis equestris,
+GCA_010110895.2,3332,Picea sitchensis,Sitka spruce
+GCA_004801955.1,141467,Calotropis procera,
+GCA_003991445.1,110450,Oryza meyeriana var. granulata,
+GCA_028455895.1,98583,Rhodomyrtus tomentosa,
+GCA_007115705.1,4509,Dactylis glomerata,orchard grass
+GCA_019776075.1,107608,Amaranthus palmeri,
+GCA_007258455.2,28980,Sequoia sempervirens,coast redwood
+GCA_026873245.1,3860,Lathyrus sativus,white pea
+GCA_002013955.2,171251,Citrus medica,etrog
+GCF_002738365.1,3662,Cucurbita moschata,crookneck pumpkin
+GCA_012979155.1,65561,Hypericum perforatum,
+GCF_000471905.2,13333,Amborella trichopoda,
+GCA_026120095.1,80379,Capsicum chinense,piri piri
+GCA_001974645.1,3719,Capsella bursa-pastoris,shepherd's purse
+GCA_001278415.1,204149,Ocimum tenuiflorum,holy basil
+GCA_019593545.1,377125,Apocynum venetum,
+GCA_019925245.2,4532,Oryza australiensis,
+GCA_020883675.1,39984,Bruguiera gymnorhiza,Burma mangrove
+GCA_027704765.1,62890,Solanum habrochaites,
+GCF_001605985.2,906689,Dendrobium catenatum,
+GCA_014905375.1,374723,Phtheirospermum japonicum,
+GCA_002897195.1,55188,Citrus unshiu,satsuma mandarin
+GCA_008642245.1,83154,Bassia scoparia,burning bush
+GCA_000418225.1,58934,Zizania latifolia,
+GCA_029582705.1,4108,Solanum chacoense,Chaco potato
+GCA_008921755.1,138855,Aristotelia chilensis,
+GCA_002091855.1,159386,Nothapodytes nimmoniana,
+GCA_025330945.1,157652,Mucuna pruriens,
+GCA_019096145.1,157748,Vigna mungo var. mungo,
+GCA_002897215.1,222997,Eschscholzia californica subsp. californica,
+GCA_018398585.1,3999,Simmondsia chinensis,jojoba
+GCA_900174605.1,106626,Rhizophora apiculata,
+GCF_006381635.1,106335,Hibiscus syriacus,Rose-of-Sharon
+GCA_020976635.1,103480,Castanea crenata,Japanese chestnut
+GCF_001879475.1,35883,Ipomoea nil,Japanese morning glory
+GCF_002303985.1,66656,Durio zibethinus,durian
+GCA_019722365.1,34254,Lithospermum erythrorhizon,
+GCA_002738505.1,218851,Aquilegia coerulea,Rocky Mountain columbine
+GCA_019454045.1,328401,Zanthoxylum bungeanum,hua jiao
+GCA_012274485.2,3728,Sinapis alba,white mustard
+GCA_900184695.1,3505,Betula pendula,European white birch
+GCA_001974805.1,210143,Corchorus capsularis,jute
+GCA_023374145.1,33125,Lepidium sativum,
+GCA_014362285.1,28929,Fagus crenata,Japanese beech
+GCA_002079205.1,200642,Phalaenopsis hybrid cultivar,
+GCA_001077355.1,175104,Primula vulgaris,
+GCA_001598015.1,472368,Dorcoceras hygrometricum,
+GCA_000411095.1,228871,Aethionema arabicum,
+GCA_028571145.1,4362,Dionaea muscipula,
+GCA_003724115.2,2849586,Anethum foeniculum,fennel
+GCA_032191725.1,39639,Narcissus pseudonarcissus,daffodil
+GCA_026873805.1,183260,Hibiscus sabdariffa,red-sorrel
+GCA_029990575.1,55889,Petunia axillaris subsp. axillaris,
+GCA_019915185.1,34316,Eucalyptus camaldulensis,Murray red gum
+GCA_029955605.1,97696,Quercus engelmannii,mesa oak
+GCA_028583015.1,56998,Wollemia nobilis,
+GCA_029747655.1,4639,Ensete ventricosum,
+GCA_030179965.1,1053340,Cyperus esculentus,
+GCA_029007595.1,4109,Solanum commersonii,Commerson's wild potato
+GCA_904845875.1,422564,Miscanthus lutarioriparius,
+GCA_019955255.1,24962,Castanospermum australe,Australian chestnut
+GCF_008641045.1,55513,Pistacia vera,pistachio
+GCA_019973895.1,1111766,Chrysanthemum seticuspe,
+GCA_016859785.1,271171,Macrotyloma uniflorum,horse gram
+GCA_026122585.1,171929,Anacardium occidentale,cashew
+GCA_900406445.1,65948,Nasturtium officinale,watercress
+GCA_026898455.1,41228,Plectranthus barbatus,
+GCF_000414095.1,981085,Morus notabilis,
+GCA_900205405.1,90397,Echinochloa crus-galli,barnyard grass
+GCA_018584345.1,3316,Thuja plicata,western red-cedar
+GCA_000441515.1,80265,Elaeis oleifera,American oil palm
+GCA_004012085.1,119951,Eugenia uniflora,pitanga
+GCA_028659135.1,39414,Plantago lanceolata,narrow-leaved plantain
+GCA_000180655.1,277990,Amaranthus tuberculatus,
+GCA_005406145.1,3759,Prunus yedoensis,Cheju native flowering cherry
+GCA_030819835.1,1240363,Acmispon strigosus,
+GCA_024362995.1,36612,Heteromeles arbutifolia,toyon
+GCA_029618585.1,416196,Citrus australasica,Australian finger-lime
+GCA_023212625.1,3897,Styphnolobium japonicum,Japanese pagoda tree
+GCA_026122235.1,60093,Vinca minor,common periwinkle
+GCA_030448935.1,2709,Citrus cavaleriei,Ichang papeda
+GCA_900174645.1,122812,Sonneratia alba,
+GCA_004802465.1,159041,Citrus hindsii,Hong Kong kumquat
+GCA_003013855.2,3414,Liriodendron chinense,
+GCA_023529315.1,215227,Papaver bracteatum,great scarlet poppy
+GCA_030449075.1,43711,Murraya paniculata,
+GCA_017589505.3,93297,Metroxylon sagu,sago palm
+GCA_027705065.1,4082,Solanum peruvianum,Peruvian tomato
+GCA_011037825.1,139927,Carya cathayensis,
+GCF_004799145.1,207710,Prosopis alba,algarrobo blanco
+GCA_002896235.1,90898,Cicer reticulatum,
+GCA_963454935.1,185542,Ilex paraguariensis,yerba mate
+GCA_001752375.1,396313,Rhazya stricta,
+GCA_031780015.1,252529,Citrullus colocynthis,alhandal
+GCA_006547085.1,106549,Malus baccata,shan jing zi
+GCA_003123805.1,224355,Juglans sigillata,
+GCA_008636005.1,4170,Striga asiatica,witchweed
+GCA_001649415.1,574487,Musa itinerans,
+GCA_029582425.1,50273,Solanum pinnatisectum,tansyleaf nightshade
+GCA_008326845.1,2599122,Vitis x labruscana x Vitis vinifera,
+GCA_001602295.1,38722,Zoysia matrella,Manila grass
+GCA_900406465.1,107243,Noccaea caerulescens,
+GCA_002564525.1,74647,Rosa multiflora,Japanese rose
+GCA_005239535.1,4093,Nicotiana rustica,Aztec tobacco
+GCA_000788445.1,170927,Primula veris,cowslip
+GCA_018107945.1,4076,Datura stramonium,jimsonweed
+GCA_009835305.1,4121,Ipomoea purpurea,common morning-glory
+GCA_029618835.1,41496,Calendula officinalis,common marigold
+GCA_001920985.1,50459,Barbarea vulgaris,winter cress
+GCA_902706635.1,68872,Striga hermonthica,purple witchweed
+GCA_032191745.1,3335,Picea mariana,black spruce
+GCA_031762675.1,74825,Pachysandra terminalis,
+GCA_009849755.1,172790,Solanum phureja,chaucha
+GCA_014822125.1,84005,Arbutus unedo,strawberry tree
+GCA_028571085.2,4376,Nepenthes alata,
+GCA_028566335.1,182379,Monarda citriodora,
+GCA_027790015.1,79835,Cymbopogon flexuosus,
+GCA_002878655.1,165298,Cissus quadrangularis,veldt-grape
+GCA_030819805.1,230067,Penstemon newberryi var. newberryi,
+GCA_932364175.1,29727,Eruca vesicaria subsp. sativa,arugula
+GCA_003122825.1,412098,Phaseolus coccineus subsp. coccineus,
+GCA_947683365.1,37495,Euphorbia pulcherrima,poinsettia
+GCF_030987335.1,4283,Cornus florida,flowering dogwood
+GCA_030544215.1,278654,Zantedeschia hybrid cultivar,
+GCA_030270665.1,183268,Hibiscus trionum,Venice-mallow
+GCA_030820535.1,2004446,Quercus parvula,
+GCA_029168935.1,284366,Oxyria digyna,
+GCA_024362665.1,97307,Prunus padus,bird cherry
+GCA_023349395.1,91212,Juglans californica,California black walnut
+GCA_029990175.1,323111,Petunia secreta,
+GCA_023055425.1,64432,Linanthus parryae,sandblossoms
+GCA_030449875.1,68527,Aegle marmelos,Indian baelfruit
+GCA_030760725.1,160571,Neostapfia colusana,
+GCA_030512225.1,545371,Rauvolfia tetraphylla,
+GCA_019985065.2,89197,Arctostaphylos glauca,
+GCA_023055345.1,67830,Quercus wislizeni,interior live oak
+GCA_029961685.1,171875,Aristolochia californica,
+GCA_021018815.1,110664,Talinum fruticosum,
+GCA_027886185.1,137697,Rheum nobile,
+GCA_027422505.1,4153,Craterostigma plantagineum,
+GCA_026261945.1,71354,Hirschfeldia incana,hairy brassica
+GCA_029449295.1,15945,Zea luxurians,teosinte
+GCA_025175665.1,50278,Cinchona pubescens,quinine
+GCA_028654335.1,109069,Alnus rubra,
+GCA_019926035.1,164405,Melaleuca alternifolia,tea tree
+GCA_015342445.1,1010633,Digitaria exilis,
+GCA_030021035.1,165545,Notholithocarpus densiflorus,
+GCA_027943335.1,13415,Chamaecyparis obtusa,
+GCF_029017545.1,364024,Prosopis cineraria,
+GCA_024336825.1,175755,Amorphophallus titanum,corpse flower
+GCA_015832515.1,115934,Boechera retrofracta,
+GCA_029633175.1,76963,Citrus glauca,Australian desert-lime
+GCA_025388415.1,228709,Cynanchum wilfordii,
+GCA_003290165.1,121720,Berberis thunbergii,Japanese barberry
+GCA_024138015.1,99437,Lumnitzera littorea,
+GCA_012064385.1,240906,Puccinellia tenuiflora,
+GCA_004349715.1,59289,Crucihimalaya himalaica,
+GCA_021015155.1,85864,Magnolia officinalis,
+GCA_013180625.2,173701,Boswellia sacra,frankincense
+GCA_009725065.1,192314,Utricularia reniformis,
+GCA_900491605.1,746888,Calamus simplicifolius,
+GCA_024364735.1,97729,Boesenbergia rotunda,Chinese-keys
+GCA_001972305.1,3775,Cephalotus follicularis,
+GCA_029783825.1,289637,Sapria himalayana,
+GCA_033002965.1,13217,Piper betle,
+GCA_016808085.1,224144,Suaeda aralocaspica,
+GCA_026898435.1,39358,Prunella vulgaris,self-heal
+GCA_019297695.1,1920719,Apostasia ramifera,
+GCA_900006705.1,122814,Sonneratia caseolaris,
+GCA_002312845.1,63787,Kalanchoe fedtschenkoi,South American air plant
+GCA_002174775.1,56857,Macleaya cordata,
+GCA_003122765.1,91213,Juglans cathayensis,
+GCF_000393655.1,4096,Nicotiana sylvestris,wood tobacco
+GCA_026074375.1,301880,Tanacetum coccineum,
+GCA_026770625.1,4090,Nicotiana glauca,tree tobacco
+GCA_030439765.1,50346,Tripidium arundinaceum,
+GCA_025769935.1,446125,Phoenix roebelenii,
+GCA_024708375.1,213833,Oxalis stricta,
+GCA_009831015.1,3334,Picea engelmannii,Engelmann's spruce
+GCA_001633215.2,888268,Dichanthelium oligosanthes,
+GCA_029295335.1,3604,Vitis sp.,
+GCA_032619315.1,49511,Piper longum,
+GCA_025585075.1,150983,Nepenthes mirabilis,
+GCA_030144865.1,285590,Tinospora cordifolia,
+GCA_025762735.1,122832,Platanus orientalis,
+GCA_020521535.1,152421,Rubroshorea leprosula,
+GCA_001541825.1,92921,Silybum marianum,lady's thistle
+GCA_032274825.1,4373,Drosophyllum lusitanicum,
+GCA_032359685.1,43073,Pittosporum tobira,tobira
+GCA_028566075.1,471148,Solidago caesia,woodland goldenrod
+GCA_014822095.1,264416,Diplotaxis tenuifolia,
+GCA_031170775.1,66014,Cymbopogon citratus,lemon grass
+GCA_949668995.1,142860,Euphorbia tirucalli,
+GCA_003260245.2,85884,Argania spinosa,
+GCA_024759925.1,66387,Ficus religiosa,bo tree
+GCA_032274805.1,235358,Gypsophila paniculata,
+GCA_902837555.1,56038,Fraxinus velutina,velvet ash
+GCA_900406375.1,190884,Iberis amara,Gruetzblume
+GCA_009801015.1,39899,Silene noctiflora,night-flowering catchfly
+GCA_002855965.1,176248,Monotropa hypopitys,false beech-drops
+GCA_025802395.1,3942,Oenothera biennis,German evening primrose
+GCA_028566195.1,3472,Sanguinaria canadensis,red puccoon
+GCA_032274545.1,39510,Agave americana,century plant
+GCA_022495875.1,1627839,Bletilla sinensis,
+GCA_032274185.1,1824557,Agave fourcroydes,
+GCA_015476445.1,70124,Crambe hispanica,
+GCA_009867345.2,43853,Toxicodendron radicans,eastern poison ivy
+GCA_024653005.1,419112,Nuphar advena subsp. advena,
+GCA_029884595.1,499992,Ormosia semicastrata,
+GCA_032173925.1,2171973,Heritiera fomes,
+GCA_024138005.1,99438,Lumnitzera racemosa,
+GCA_028538565.1,3438,Umbellularia californica,California bay
+GCA_032878935.1,568080,Erythrophleum fordii,
+GCA_029955455.1,97693,Quercus agrifolia,coast live oak
+GCA_028535905.1,1266315,Quercus berberidifolia,California scrub oak
+GCA_028535165.1,60424,Quercus tomentella,island oak
+GCA_030761205.1,93767,Fremontodendron californicum,Fremontia
+GCA_027704825.1,315350,Solanum galapagense,
+GCA_029929735.1,76306,Mimosa pudica,sensitive-plant
+GCA_030449835.1,159037,Clausena lansium,
+GCA_025331145.1,74628,Rosa persica,
+GCA_029955375.1,59496,Rubus parviflorus,
+GCF_003935025.1,3816,Abrus precatorius,Indian licorice
+GCA_019022615.1,138028,Acacia melanoxylon,
+GCF_021117445.2,219896,Syzygium oleosum,
+GCA_016920855.1,112807,Puya raimondii,
+GCA_029959085.1,79376,Nemophila menziesii,
+GCA_030180095.1,116762,Magnolia changhungtana,
+GCA_031772115.1,93780,Heritiera littoralis,
+GCA_023053565.1,1291435,Aquilegia eximia,
+GCA_029817715.1,130512,Melastoma dodecandrum,
+GCA_003260385.1,267555,Cuscuta australis,
+GCA_030449895.1,349445,Citrus mangshanensis,manghsan mandarin
+GCA_007663325.1,87676,Eucalyptus pauciflora,
+GCA_030448925.1,496653,Citrus hongheensis,Honghe papeda
+GCA_001182835.1,1148796,Oropetium thomaeum,
+GCA_014058105.1,39325,Kingdonia uniflora,
+GCA_947645195.1,19768,Patellifolia procumbens,
+GCA_022828595.1,4431,Nelumbo lutea,American lotus
+GCA_020521455.1,1813533,Prunus kanzakura,
+GCA_025461125.1,100296,Carex kokanica,
+GCA_002076135.1,90708,Xerophyta viscosa,
+GCA_021464245.1,61141,Carallia brachiata,
+GCA_029721495.1,416197,Citrus inodora,North Queensland lime
+GCF_900185275.1,315347,Solanum verrucosum,
+GCA_012490785.1,1262659,Eragrostis nindensis,
+GCA_027475595.1,1550601,Populus davidiana x Populus alba var. pyramidalis,
+GCA_030441495.1,1030150,Dalbergia oliveri,
+GCA_021521415.1,980011,Bidens hawaiensis,
+GCA_019279435.1,103762,Zizania palustris,
+GCA_003996215.1,205521,Jaltomata sinuosa,
+GCA_019208055.1,665498,Stipa capillata,
+GCA_026119855.1,989334,Campanula takesimana,
+GCA_003255025.1,34297,Datisca glomerata,
+GCA_005019695.1,459581,Trichopus zeylanicus subsp. travancoricus,
+GCA_019650275.1,241841,Xylocarpus granatum,
+GCA_023213295.1,413958,Bruguiera hainesii,
+GCA_029231665.1,248361,Morus indica,
+GCA_910822075.1,121554,Senecio squalidus,
+GCA_020141445.1,98584,Bruguiera sexangula,
+GCA_015708895.1,1902783,Populus ilicifolia,
+GCA_011799765.1,419125,Nymphaea thermarum,
+GCA_020283515.1,126270,Alliaria petiolata,garlic mustard
+GCA_006409495.1,23029,Sedum album,
+GCA_032173675.1,164727,Gastrolobium villosum,
+GCA_002786265.1,1088818,Apostasia shenzhenica,
+GCA_001687005.1,882375,Chenopodium pallidicaule,
+GCA_020617695.1,413951,Ceriops zippeliana,
+GCA_029582245.1,200525,Solanum etuberosum,
+GCA_019776045.1,1417620,Brassica rapa x Raphanus sativus,
+GCA_001925005.1,4366,Drosera capensis,
+GCA_002914845.1,63057,Trema orientale,
+GCF_002168275.1,108875,Herrania umbratica,
+GCA_015680685.1,3381,Gnetum montanum,
+GCA_002018475.1,200316,Nicotiana obtusifolia,
+GCA_003123785.1,91225,Pterocarya stenoptera,
+GCF_000390325.2,4098,Nicotiana tomentosiformis,
+GCA_900631875.1,55578,Dioscorea sansibarensis,
+GCA_022059035.1,103352,Vitis rupestris,bush grape
+GCA_026573535.1,1282669,Eucalyptus polybractea,
+GCA_020615895.1,172013,Ceriops decandra,
+GCA_005239495.1,118713,Nicotiana undulata,
+GCA_011039315.1,103355,Vitis labrusca,Concord grape
+GCA_007407185.1,44015,Glycine tomentella,wooly glycine
+GCA_019149425.1,681482,Psidium friedrichsthalianum,
+GCA_023159065.1,73575,Solanum okadae,
+GCA_011800125.2,329767,Solanum clarkiae,
+GCA_000696445.1,1472648,Aquilaria agallochum,
+GCA_022839385.1,272855,Asparagus kiusianus,
+GCA_001647135.1,44951,Pontederia paniculata,
+GCA_000411055.1,310722,Leavenworthia alabamica,
+GCA_008931105.1,49556,Oenanthe javanica,
+GCA_000411075.1,3730,Sisymbrium irio,
+GCA_026544285.1,109171,Pachyrhizus erosus,yam-bean
+GCA_000715115.1,4091,Nicotiana otophora,
+GCA_025642045.1,329799,Solanum sejunctum,
+GCA_001753735.1,459629,Embelia ribes,
+GCA_018326385.1,4224,Flaveria bidentis,
+GCA_014578085.1,352370,Cardamine resedifolia,
+GCA_001662545.1,3765,Rosa x damascena,damask rose
+GCA_000441915.1,192259,Genlisea aurea,
+GCA_028566635.1,76578,Lobelia cardinalis,cardinal flower
+GCA_903798225.1,38872,Fraxinus americana,white ash
+GCA_028566155.1,857043,Quercus phellos,willow oak
+GCA_024520955.1,2303020,Erythroxylum bequaertii,
+GCA_025631255.1,28501,Cornus kousa,kousa dogwood
+GCA_028566515.2,193309,Pyracantha coccinea,scarlet firethorn
+GCA_018983105.1,39919,Silene uniflora,
+GCA_028566395.2,39388,Verbascum thapsus,common mullein
+GCA_949634005.1,29747,Mallotus japonicus,
+GCA_032274785.1,38596,Ajuga reptans,bugle
+GCA_026257165.2,383670,Telfairia occidentalis,
+GCA_010015005.3,29740,Ulmus americana,American elm
+GCA_015708375.1,36610,Cydonia oblonga,quince
+GCA_028566175.1,185238,Vinca major,large periwinkle
+GCA_025802135.1,1812841,Lagerstroemia fauriei,
+GCA_002024485.1,709039,Artocarpus camansi,
+GCA_025448175.1,36594,Aronia arbutifolia,red chokeberry
+GCA_012978445.1,54988,Dipteryx alata,
+GCA_000582825.1,112521,Hordeum pubiflorum,
+GCA_021234465.1,136990,Dendrobium hybrid cultivar,
+GCA_000511995.1,60188,Fragaria nubicola,
+GCA_000512025.1,101012,Fragaria nipponica,
+GCA_025802435.1,3412,Magnolia virginiana,sweetbay
+GCA_025212335.1,34182,Chlorophytum comosum,
+GCA_031762755.1,82025,Hyacinthus orientalis,common hyacinth
+GCA_020138205.1,1522114,Tilia amurensis,
+GCA_001562795.1,3605,Vitis aestivalis,
+GCA_000517285.1,101013,Fragaria orientalis,
+GCA_031763035.1,83802,Lilium candidum,
+GCA_900070015.1,4516,Hordeum bulbosum,
+GCA_003546025.1,337451,Cinnamomum micranthum f. kanehirae,
+GCA_900406315.1,1594205,Biscutella laevigata subsp. laevigata,
+GCA_025629945.1,2303043,Erythroxylum macrophyllum var. savannarum,
+GCA_949592205.1,630343,Helichrysum umbraculigerum,
+GCA_947685225.1,316719,Garcia nutans,
+GCA_029784005.1,3002909,Lenwebbia sp. NSW1173648,
+GCA_029884605.1,53908,Ormosia emarginata,
+GCA_032878915.1,279180,Castanopsis chinensis,
+GCA_945859875.1,41803,Cuscuta europaea,
+GCA_019915205.1,338544,Eucalyptus rudis,moitch
+GCA_028554755.1,163078,Cordia subcordata,kou
+GCA_947683425.1,179682,Excoecaria cochinchinensis,
+GCA_022829125.1,49829,Lathyrus tuberosus,
+GCA_028749325.2,54236,Caryopteris x clandonensis,
+GCA_033032865.1,230574,Dactylorhiza incarnata,
+GCA_026586105.1,53867,Hylodesmum podocarpum,
+GCA_947069175.1,2708596,Scalesia atractyloides,
+GCA_900406565.1,63678,Turritis glabra,tower rockcress
+GCA_021437785.1,375277,Rhodomyrtus psidioides,
+GCA_030449925.1,1762906,Citropsis articulata,
+GCA_024447775.1,314410,Carex cristatella,
+GCA_021901955.1,87089,Brassica balearica,
+GCA_940586395.1,2018007,Vitis riparia x Vitis cinerea,
+GCA_900116095.1,345537,Euclidium syriacum,
+GCA_004919715.1,263965,Linderniella brevidens,
+GCA_024447665.1,318445,Juncus inflexus,
+GCA_945859915.1,186058,Cuscuta epithymum,clover dodder
+GCA_902712375.1,167584,Dioscorea dumetorum,trifoliate yam
+GCA_030449905.1,645647,Luvunga scandens,
+GCA_900108845.1,311912,Conringia planisiliqua,
+GCA_961763995.1,91214,Juglans cinerea,
+GCA_026120185.1,1237849,Voacanga thouarsii,
+GCA_019022655.1,178749,Acacia acuminata,raspberry jam
+GCA_021437795.1,375276,Rhodamnia rubescens,scrub turpentine
+GCA_019656295.1,224351,Rhododendron mucronatum var. ripense,
+GCA_019739055.1,159434,Passiflora organensis,
+GCA_947683625.1,300977,Mallotus nudiflorus,
+GCA_027704865.1,62891,Solanum neorickii,
+GCA_946122785.1,586396,Linum tenue,
+GCA_027704785.1,62889,Solanum chmielewskii,
+GCA_028392965.1,303139,Lindernia subracemosa,
+GCA_947646795.1,65139,Beta lomatogona,
+GCA_947687595.1,398630,Cnidoscolus aconitifolius,
+GCA_019202695.1,1954239,Populus x sibirica,
+GCA_026901365.1,485725,Sesbania bispinosa,katsakatsa
+GCA_025563575.1,880440,Acacia pycnantha,
+GCA_024447655.1,314463,Carex scoparia,
+GCA_026541065.1,3823,Canavalia ensiformis,jack bean
+GCA_945779075.1,129365,Brassica incana,
+GCA_024733475.1,1042139,Syzygium grande,
+GCA_018342035.1,115661,Solanum appendiculatum,
+GCA_016801875.1,315349,Solanum sitiens,
+GCA_900406555.1,81982,Pseudoturritis turrita,
+GCA_947648045.1,19767,Beta corolliflora,
+GCA_024138025.1,578542,Combretum micranthum,
+GCA_008635985.1,66383,Ficus erecta,ai xiao tian xian guo
+GCA_030278955.1,1279181,Hygrophila difformis,
+GCA_947687605.1,1487825,Reutealis trisperma,
+GCA_018135685.1,106636,Themeda triandra,kangaroo grass
+GCA_016808115.1,345143,Tetrastigma voinierianum,
+GCA_027704805.1,230663,Solanum corneliomulleri,
+GCA_029747015.1,171969,Carnegiea gigantea,saguaro
+GCA_022495995.1,265775,Adenophora triphylla var. japonica,
+GCA_029216955.1,29817,Iris pallida,
+GCA_902728155.2,1685480,Microthlaspi erraticum,
+GCA_033070095.1,1293975,Escallonia herrerae,
+GCA_023531295.1,357465,Papaver armeniacum,
+GCA_031894775.1,110876,Chloris gayana,
+GCA_015847255.1,798322,Hyparrhenia diplandra,
+GCA_033065855.1,112253,Escallonia rubra,
+GCA_002896215.2,90897,Cicer echinospermum,
+GCA_020465985.1,434635,Centrapalus pauciflorus,
+GCA_032618575.1,118705,Nicotiana noctiflora,
+GCA_015844335.1,330583,Chrysopogon serrulatus,
+GCA_029817735.1,122218,Melastoma sanguineum,
+GCA_023213415.1,106616,Bruguiera cylindrica,
+GCA_928212115.1,75947,Lactuca virosa,
+GCA_025461045.1,544733,Carex parvula,
+GCA_018901945.1,473980,Pugionium dolabratum,
+GCA_905132885.1,308297,Moricandia moricandioides,
+GCA_023531105.1,357466,Papaver atlanticum,Atlas poppy
+GCA_010665285.1,347648,Linum bienne,
+GCA_003254865.1,48231,Dryas drummondii,
+GCA_003255065.1,49801,Cercis canadensis,
+GCA_005191435.1,38704,Raddia distichophylla,
+GCA_905132765.1,180540,Moricandia arvensis,
+GCA_002933915.1,347889,Eutrema heterophyllum,
+GCA_002814295.1,47617,Kokia drynarioides,
+GCA_003254975.1,262936,Ochetophila trinervis,
+GCA_026898415.1,378904,Leonotis leonurus,
+GCA_023531435.1,74822,Papaver californicum,western poppy
+GCA_027742795.1,157746,Vigna hirtella,
+GCA_028386065.3,218843,Turnera subulata,white alder
+GCA_003255005.1,200001,Begonia fuchsioides,
+GCA_002914805.1,3476,Parasponia andersonii,
+GCA_900406495.1,71365,Sisymbrium altissimum,tall rocket
+GCA_022059055.1,226012,Vitis cinerea,downy grape
+GCA_022085475.1,39905,Heliosperma pusillum,
+GCA_002762385.1,429701,Handroanthus impetiginosus,
+GCA_024699675.1,55438,Amphibolis antarctica,
+GCA_900406405.1,153324,Lepidium africanum,
+GCA_003254905.1,105944,Nissolia schottii,
+GCA_014898725.1,228396,Jacaranda copaia,
+GCA_002933935.1,347893,Eutrema yunnanense,
+GCA_003123825.1,91216,Juglans hindsii,
+GCA_027743565.1,157753,Vigna trinervia,
+GCA_022058775.1,241073,Vitis hybrid cultivar,
+GCA_003254885.1,32243,Purshia tridentata,bitterbrush
+GCA_946598075.1,291940,Artocarpus hirsutus,aini-maram
+GCA_005239505.1,62141,Nicotiana paniculata,
+GCA_003123845.1,91219,Juglans microcarpa,
+GCA_001602315.1,1070856,Zoysia pacifica,
+GCA_900406395.1,169074,Kernera saxatilis,
+GCA_900406535.1,165365,Raparia bulbosa,
+GCA_022058835.1,2690240,Vitis aestivalis var. linsecomii x Vitis rupestris,
+GCA_005239525.1,118699,Nicotiana knightiana,
+GCA_003254925.1,53854,Chamaecrista fasciculata,partridge-pea
+GCA_001687025.1,434248,Chenopodium suecicum,
+GCA_900406435.1,153329,Lepidium aucheri,
+GCA_003260655.2,69181,Brassica cretica,
+GCA_019656275.1,118354,Rhododendron kiyosumense,
+GCA_029582725.1,856890,Solanum chiquidenum,
+GCA_029582625.1,561126,Solanum boliviense,
+GCA_029582685.1,205571,Solanum piurae,
+GCA_947857235.1,454933,Jatropha podagrica,purgingnut
+GCA_029582545.1,315341,Solanum lignicaule,
+GCA_948099535.1,3996,Jatropha multifida,
+GCA_029582585.1,172263,Solanum bukasovii,
+GCA_029582525.1,2898762,Solanum tacnaense,
+GCA_029582215.1,172796,Solanum sparsipilum,
+GCA_949677035.1,289649,Omphalea diandra,
+GCA_029582405.1,561127,Solanum gandarillasii,
+GCA_029582605.1,2898761,Solanum gracilifrons,
+GCA_029582445.1,856984,Solanum paucissectum,
+GCA_949630135.1,571348,Balakata baccata,
+GCA_029582385.1,257458,Solanum tarijense,
+GCA_029582565.1,315340,Solanum infundibuliforme,
+GCA_029582645.1,445678,Solanum megistacrolobum,
+GCA_900406275.1,663965,Anastatica hierochuntica,
+GCA_903798385.1,56042,Fraxinus cuspidata,fragrant ash
+GCA_028571225.1,2126282,Parsonsia alboflavescens,
+GCA_903798255.1,56032,Fraxinus quadrangulata,blue ash
+GCA_029582485.1,2898763,Solanum tarapatanum,
+GCA_017140935.1,4397,Hamamelis virginiana,American witch-hazel
+GCA_027563885.1,2768049,Erythroxylum longipes,
+GCA_027563595.1,2768050,Erythroxylum suave,
+GCA_025774065.1,2570597,Solanum ossicruentum,
+GCA_026153255.1,2570596,Solanum medicagineum,
+GCA_014898755.1,429699,Handroanthus guayacan,
+GCA_027575705.1,2768046,Erythroxylum echinodendron,
+GCA_025629805.1,2768045,Erythroxylum baracoense,
+GCA_025593235.1,1985974,Vachellia pachyceras,
+GCA_027576715.1,2768047,Erythroxylum flavicans,
+GCA_900406425.1,1533145,Iberis pinnata,
+GCA_900406245.1,226021,Odontarrhena argentea,
+GCA_900322385.1,2083489,Pharnaceum exiguum,
+GCA_903798345.1,56041,Fraxinus anomala,single-leaf ash
+GCA_024699735.1,55488,Posidonia australis,
+GCA_026212285.1,80294,Bursera cuneata,
+GCA_027568895.1,2303057,Erythroxylum shatona,
+GCA_032718425.1,29771,Saxifraga oppositifolia,purple mountain saxifrage
+GCA_014843705.1,474999,Euphrasia arctica,
+GCA_026225775.1,80321,Bursera palmeri,
+GCA_032270985.1,1202731,Heliamphora pulchella,
+GCA_025802335.1,326274,Pinguicula primuliflora,southern butterwort
+GCA_026413385.1,2303035,Erythroxylum gracilipes,
+GCA_026770405.1,2589462,Erythroxylum engleri,
+GCA_900406295.1,169069,Aurinia saxatilis,basket-of-gold
+GCA_027563575.1,2589511,Erythroxylum pedicellare,
+GCA_901111285.1,46118,Corrigiola litoralis,strapwort
+GCA_032355605.1,29802,Rubia tinctorum,madder
+GCA_025504915.1,2303053,Erythroxylum reticulatum,
+GCA_006871305.1,284492,Vachellia collinsii,
+GCA_949673415.1,216487,Euphorbia schlechtendalii,
+GCA_027123425.1,681435,Erythroxylum panamense,
+GCA_025629845.1,2589535,Erythroxylum squamatum,
+GCA_025629825.1,2303036,Erythroxylum guanchezii,
+GCA_027478495.1,2589433,Erythroxylum alaternifolium,
+GCA_900406345.1,71232,Erysimum cheiri,wallflower
+GCA_028565735.1,117155,Pinacopodium congolense,
+GCA_903798405.1,56030,Fraxinus platypoda,
+GCA_025447715.1,330158,Asclepias incarnata,swamp milkweed
+GCA_009849685.1,136614,Solanum x juzepczukii,ckaisalla
+GCA_903798335.1,102695,Fraxinus albicans,
+GCA_900406325.1,1078598,Erucastrum elatum,
+GCA_027568935.1,1471847,Erythroxylum urbanii,
+GCA_026284645.1,2589431,Erythroxylum acuminatum,
+GCA_947644855.1,1775858,Beta macrorhiza,
+GCA_026546835.1,2303032,Erythroxylum foetidum,
+GCA_027563865.1,2589512,Erythroxylum pelleterianum,
+GCA_027563845.1,2303059,Erythroxylum subrotundum,
+GCA_009849805.1,875672,Solanum ahanhuiri,
+GCA_024703695.1,2303025,Erythroxylum cataractarum,
+GCA_025531955.1,2303049,Erythroxylum orinocense,
+GCA_027564395.1,2589546,Erythroxylum ulei,
+GCA_903798235.1,38874,Fraxinus ornus,flowering ash
+GCA_903798355.1,1616475,Fraxinus baroniana,
+GCA_027564335.1,2303065,Erythroxylum williamsii,
+GCA_026546855.1,2303040,Erythroxylum incrassatum,
+GCA_023529015.1,74823,Papaver nudicaule,Arctic poppy
+GCA_027478365.1,1465301,Erythroxylum rufum,
+GCA_024520975.1,1040647,Erythroxylum areolatum,
+GCA_025642025.1,49622,Rhododendron ferrugineum,alpine-rose
+GCA_903798395.1,490840,Fraxinus floribunda,duo hua qin
+GCA_025531925.1,2303051,Erythroxylum plowmanianum,
+GCA_027563825.1,2589496,Erythroxylum mucronatum,
+GCA_027479065.1,1471845,Erythroxylum brevipes,
+GCA_903798325.1,126421,Fraxinus xanthoxyloides,
+GCA_903798295.1,56031,Fraxinus nigra,black ash
+GCA_026284465.1,1401403,Erythroxylum citrifolium,
+GCA_903798375.1,2709126,Fraxinus sp. D2006-0159,
+GCA_949671775.1,396370,Mallotus repandus,
+GCA_028570905.1,395290,Dryas integrifolia,
+GCA_900406525.1,63442,Physaria fendleri,Fendler's bladderpod
+GCA_025629785.1,2303050,Erythroxylum oxycarpum,
+GCA_027563915.1,1471846,Erythroxylum rotundifolium,
+GCA_028565015.1,192269,Pinguicula moranensis,
+GCA_026873985.1,1073321,Saraca asoca,
+GCA_027568915.1,2303054,Erythroxylum roraimae,
+GCA_027576455.1,2589525,Erythroxylum roigii,
+GCA_026225755.1,80288,Bursera bipinnata,
+GCA_026770325.2,2589464,Erythroxylum fimbriatum,
+GCA_027563515.1,1304337,Erythroxylum platyclados,
+GCA_029294435.1,2922363,Rosaceae sp.,
+GCA_009849625.1,682313,Solanum chaucha,
+GCA_025631235.1,57948,Dryas octopetala,
+GCA_025504935.2,2303038,Erythroxylum haughtii,
+GCA_025727855.1,1520601,Dyckia ibiramensis,
+GCA_027123465.1,289672,Erythroxylum coca,hayo
+GCA_026122645.1,2071455,Dryas alaskensis,
+GCA_029448705.1,69109,Adansonia digitata,baobab
+GCA_032270445.1,4355,Darlingtonia californica,California pitcherplant
+GCA_029829435.1,2303039,Erythroxylum hondense,
+GCA_026413575.1,2303024,Erythroxylum carthagenense,
+GCA_027568955.1,2589542,Erythroxylum tenue,
+GCA_903798275.1,56028,Fraxinus angustifolia subsp. syriaca,
+GCA_002740545.1,153875,Lophocereus schottii,
+GCA_900406415.1,651643,Isatis lusitanica,
+GCA_027478405.1,2589444,Erythroxylum cassinoides,
+GCA_025762765.1,889476,Quercus bicolor,swamp white oak
+GCA_032355705.1,29801,Rubia peregrina,Levantine madder
+GCA_903798315.1,126366,Fraxinus greggii,
+GCA_900406355.1,1492262,Erysimum pusillum,
+GCA_903798365.1,2709125,Fraxinus sp. 1973-6204,
+GCA_949640765.1,1336182,Croton laevigatus,
+GCA_902829195.1,126365,Fraxinus dipetala,
+GCA_027123815.1,2589494,Erythroxylum minutifolium,
+GCA_032355405.1,3049805,Rubia balearica,
+GCA_028566215.1,42034,Silene coronaria,mullein pink
+GCA_026259685.1,55843,Tagetes patula,French marigold
+GCA_029299655.1,2866903,Poaceae sp.,
+GCA_900406285.1,379493,Biscutella auriculata,
+GCA_013358455.1,46969,Thalictrum thalictroides,rue-anemone
+GCA_001282645.1,266788,Vitis cinerea x Vitis riparia,
+GCA_029582345.1,2898758,Solanum oplocense x Solanum tuberosum,
+GCA_949673435.1,109849,Macaranga tanarius,
+GCA_948208565.1,99294,Hura crepitans,
+GCA_002752925.1,97446,Viola pubescens var. scabriuscula,
+GCA_025175695.1,1515725,Eugenia klotzschiana,
+GCA_018326445.1,33111,Flaveria brownii,
+GCA_029582505.1,2898757,Solanum commersonii x Solanum andigenum,
+GCA_029582315.1,2898759,Solanum tarnii x Solanum tuberosum,
+GCA_002740465.1,171973,Stenocereus thurberi,organ-pipe cactus
+GCA_025631175.1,292533,Iris virginica,
+GCA_025594535.1,2589459,Erythroxylum domingense,
+GCA_009849645.1,875673,Solanum x curtilobum,
+GCA_026874005.2,2589452,Erythroxylum coriaceum,
+GCA_900322205.1,2086541,Kewa caespitosa,
+GCA_009757365.2,65351,Lepidium campestre,pepperwort
+GCA_002740445.1,154437,Pachycereus pringlei,
+GCA_027563555.1,2758712,Erythroxylum raimondii,
+GCA_032360425.1,3049803,Rubia occidens,
+GCA_018326465.1,35878,Flaveria floridana,
+GCA_902829145.1,56040,Fraxinus latifolia,Oregon ash
+GCA_032360265.1,2798557,Heliamphora ciliata,
+GCA_032467995.1,2303030,Erythroxylum dillonii,
+GCA_025434745.1,2589458,Erythroxylum divaricatum,
+GCA_902829205.1,490846,Fraxinus paxiana,qin ling qin
+GCA_032274865.1,90454,Eryngium alpinum,
+GCA_028566235.1,888065,Salvia elegans,
+GCA_026937615.2,1835387,Erythroxylum glaucum,
+GCA_004918865.1,480971,Caryocar brasiliense,
+GCA_024320915.1,72930,Erigeron philadelphicus,
+GCA_902206195.3,586526,Arabis nemorensis,
+GCA_024752395.1,1125905,Erythroxylum havanense,
+GCA_027478595.1,2303019,Erythroxylum anguifugum,
+GCA_949750685.1,316732,Vernicia montana,
+GCA_024706555.1,2915823,Mandevilla sanderi x Mandevilla atroviolacea,
+GCA_001929425.1,309804,Citrus x paradisi x Citrus trifoliata,citrumelo
+GCA_024678245.1,2303029,Erythroxylum densum,
+GCA_002740485.1,1931378,Pereskia humboldtii,
+GCA_900406335.1,115924,Boechera puberula,silver rockcress
+GCA_027563535.1,2303042,Erythroxylum lineolatum,
+GCA_900406365.1,263653,Heliophila coronopifolia,sporries
+GCA_012274505.1,2292676,Galium porrigens var. tenue,
+GCA_024582655.2,2768048,Erythroxylum kunthianum,
+GCA_026770305.1,2589468,Erythroxylum gonoclados,
+GCA_948099555.1,316793,Croton setiger,dove weed
+GCA_900406305.1,270110,Cochlearia officinalis,spoonwort
+GCA_028566315.1,52299,Rudbeckia hirta,
+GCA_900322265.1,764202,Macarthuria australis,
+GCA_020975935.1,1365876,Campomanesia xanthocarpa,
+GCA_028566255.1,1663611,Geranium maculatum,
+GCA_025434765.2,2303041,Erythroxylum kapplerianum,
+GCA_900322245.1,696524,Microtea debilis,
+GCA_024707465.1,2589455,Erythroxylum daphnites,
+GCA_001909325.1,441023,Ruellia speciosa,
+GCA_032355745.1,3049804,Rubia rechingeri,
+GCA_003571905.1,86777,Magnolia ashei,
+GCA_027576795.2,13512,Erythroxylum confusum,
+GCA_900006205.1,162769,Eperua falcata,
+GCA_024363205.1,308225,Cereus fernambucensis,
+GCA_948193065.1,123498,Aleurites moluccanus,
+GCA_900406505.1,1244054,Physaria ovalifolia,
+GCA_948193465.1,197604,Acalypha hispida,red-hot cattail
+GCA_948294925.1,138558,Codiaeum variegatum,garden croton
+GCA_028566135.1,198826,Iris sibirica,Siberian iris
+GCA_900406485.1,98029,Physaria acutifolia,
+GCA_900406475.1,60913,Noccaea goesingensis,
+GCA_948330485.1,1138352,Euphorbia neoarborescens,
+GCA_000737425.1,388155,Penstemon grinnellii,
+GCA_000737435.1,69924,Penstemon centranthifolius,
+GCA_948330635.1,213007,Euphorbia biselegans,
+GCA_948356215.1,316869,Stillingia texana,Texas toothleaf
+GCA_948332485.1,316814,Euphorbia guentheri,
+GCA_948332465.1,213017,Euphorbia lomelii,
+GCA_948243855.1,300993,Flueggea neowawraea,
+GCA_901111325.1,115627,Limeum aethiopicum,
+GCA_948193215.1,3014250,Bocquillonia castaneifolia,
+GCA_948266635.1,2964567,Cnidoscolus chayamansa,
+GCA_901111335.1,325515,Spergula arvensis,corn spurrey
+GCA_948277035.1,457242,Euphorbia corollata,
+GCA_033043275.1,1142958,Ruscus hypophyllum,
+GCA_948192965.1,212295,Dalechampia spathulata,
+GCA_026686915.1,96569,Exbucklandia tonkinensis,
+GCA_948291685.1,216471,Euphorbia celastroides,
+GCA_008932045.1,54456,Rhodoleia championii,
+GCA_948193385.1,99296,Breynia disticha f. nivosa,
+GCA_003490085.1,97028,Trifolium medium,
+GCA_900538075.1,53588,Silphium perfoliatum,cup-plant
+GCA_001623345.3,39946,Oryza sativa Indica Group,long-grained rice
+GCA_031755915.1,326968,Ziziphus jujuba,common jujube
+GCA_030127425.1,4039,Daucus carota,carrot
+GCA_014636035.1,4530,Oryza sativa,Asian cultivated rice
+GCA_009831335.1,1736659,Oryza sativa aus subgroup,
+GCA_009831275.1,1736656,Oryza sativa tropical japonica subgroup,
+GCA_009831255.1,1736658,Oryza sativa aromatic subgroup,
+GCA_027171705.3,381124,Zea mays subsp. mays,maize
+GCA_025175245.1,76912,Zea mays subsp. parviglumis,teosinte
+GCA_025759795.1,195583,Solanum lycopersicum var. cerasiforme,cherry tomato
+GCA_026225805.1,4513,Hordeum vulgare,barley
+GCA_907165085.1,77009,Hordeum vulgare subsp. spontaneum,wild barley
+GCA_008629595.1,51351,Brassica rapa subsp. pekinensis,Chinese cabbage
+GCA_025215035.1,93385,Brassica rapa subsp. chinensis,bok-choy
+GCA_017639395.1,1813537,Brassica rapa subsp. trilocularis,
+GCA_030704385.1,386281,Brassica rapa var. purpuraria,purple stem mustard
+GCA_017311205.1,542762,Camellia sinensis var. sinensis,
+GCA_020536855.1,261999,Camellia sinensis var. assamica,Assam tea
+GCA_020536555.1,2320849,Camellia sinensis var. lasiocalyx,
+GCA_028451205.1,226205,Arachis hypogaea subsp. hypogaea,
+GCA_022829005.1,226206,Arachis hypogaea subsp. fastigiata,
+GCA_033026575.1,40321,Capsicum annuum var. annuum,pimento
+GCA_000950795.1,165789,Capsicum annuum var. glabriusculum,American bird pepper
+GCA_900416815.2,3712,Brassica oleracea,wild cabbage
+GCA_018177695.1,3716,Brassica oleracea var. capitata,cabbage
+GCA_030578075.1,217619,Cucumis melo subsp. agrestis,
+GCA_009760825.1,357961,Cucumis melo var. inodorus,casaba melon
+GCA_032878535.1,214685,Musa acuminata var. zebrina,blood banana
+GCA_902713445.1,158383,Olea europaea subsp. europaea,
+GCA_023089605.1,129566,Olea europaea subsp. cuspidata,
+GCA_001687265.1,323352,Brassica juncea var. tumida,zha cai
+GCA_018142915.1,2787746,Citrullus lanatus subsp. cordophanus,
+GCA_019705965.1,282304,Raphanus sativus var. raphanistroides,oil radish
+GCA_019705865.1,463157,Raphanus sativus var. oleiformis,
+GCA_019705885.1,41679,Raphanus sativus var. niger,Chinese radish
+GCA_019705895.1,459856,Raphanus sativus var. caudatus,rat-tail radish
+GCA_003024255.1,1590841,Actinidia chinensis var. chinensis,
+GCA_026781165.1,138955,Vigna unguiculata subsp. sesquipedalis,yard-long-bean
+GCA_026151145.1,59691,Arabidopsis lyrata subsp. petraea,
+GCA_029339315.1,296719,Ananas comosus var. bracteatus,wild pineapple
+GCA_000347335.2,37682,Aegilops tauschii,
+GCA_025177575.1,132459,Pueraria montana,
+GCA_021020685.1,83906,Boehmeria nivea,zhu ma
+GCA_004320505.1,157739,Vigna angularis var. angularis,
+GCA_013168755.1,1381980,Avicennia marina subsp. marina,
+GCA_023940565.1,3915,Vigna mungo,black gram
+GCA_024760705.1,40337,Mucuna pruriens var. utilis,velvet bean
+GCA_003061485.1,1504633,Panicum hallii var. hallii,
+GCA_944222845.1,58531,Aegilops speltoides subsp. speltoides,goat grass
+GCA_002271885.2,33114,Capsicum baccatum,
+GCA_029531685.1,109996,Raphanus raphanistrum,jointed charlock
+GCA_019706005.1,328428,Raphanus raphanistrum subsp. landra,
+GCA_004115005.2,1094858,Cucurbita argyrosperma subsp. argyrosperma,
+GCA_006942195.1,2998809,Oryza sativa f. spontanea,
+GCA_903992495.4,755351,Vitis vinifera subsp. sylvestris,wild grape
+GCA_009849705.1,80418,Solanum tuberosum subsp. andigenum,
+GCA_018901965.1,51350,Brassica rapa subsp. rapa,turnip
+GCA_005549215.1,1194695,Cucumis melo var. makuwa,
+GCA_000737105.1,478097,Manihot esculenta subsp. flabellifolia,
+GCA_001510005.1,1302822,Cannabis sativa subsp. indica,marijuana
+GCA_008692665.1,193079,Saccharum hybrid cultivar SP80-3280,
+GCA_005862445.2,350892,Beta vulgaris subsp. maritima,sea beet
+GCA_018282175.1,1527200,Beta vulgaris subsp. cicla,
+GCA_024346515.1,28911,Allium cepa var. aggregatum,shallot
+GCA_003711535.1,81970,Arabidopsis halleri,
+GCA_011037025.1,81971,Arabidopsis halleri subsp. halleri,
+GCA_001687525.1,3920,Vigna unguiculata subsp. unguiculata,cowpea
+GCA_019650155.1,1713717,Vigna unguiculata subsp. dekindtiana,
+GCA_944990045.1,59689,Arabidopsis lyrata,lyrate rockcress
+GCA_008033785.1,580376,Persea americana var. drymifolia,Mexican avocado
+GCA_019096045.1,174648,Pueraria montana var. thomsonii,fen ke
+GCA_019511825.2,151328,Perilla frutescens var. frutescens,
+GCA_019512045.2,608512,Perilla frutescens var. hirtella,
+GCA_950102115.1,1954247,Populus nigra var. italica,
+GCA_002966915.1,2003741,Gastrodia elata f. glauca,
+GCA_902728035.1,278110,Apium graveolens Rapaceum Group,celery knob
+GCA_021018715.1,2602040,Phragmites australis subsp. australis,
+GCA_009758035.1,714458,Coix lacryma-jobi var. ma-yuen,
+GCA_002966975.2,2094558,Prunus yedoensis var. nudiflora,
+GCA_009849865.2,1050191,Solanum stenotomum subsp. goniocalyx,
+GCA_009849785.1,2650462,Solanum stenotomum subsp. stenotomum,
+GCA_027564415.1,681434,Erythroxylum macrophyllum,
+GCA_903798265.1,56026,Fraxinus angustifolia subsp. oxycarpa,
+GCA_014338645.1,231718,Triticum aestivum subsp. tibeticum,Tibetan wheat
+GCA_032878665.1,214697,Musa acuminata AAA Group,dessert banana
+GCA_023376185.1,114280,Cichorium endivia,escarole
+GCA_023213395.1,123604,Cycas panzhihuaensis,
+GCA_027475655.1,768545,Sesamum schinzianum,
+GCA_024704795.1,2563832,Gossypium stephensii,
+GCA_021605185.1,4487,Aegilops searsii,
+GCA_022432945.1,2905994,Begonia darthvaderiana,
+GCA_018493915.1,51121,Arachis cardenasii,
+GCA_029204045.1,1842917,Tillandsia leiboldiana,
+GCA_002813485.1,4579,Zea mays subsp. mexicana,teosinte
+GCF_001957025.1,169297,Aegilops tauschii subsp. tauschii,
+GCA_029339355.1,82528,Crocus sativus,saffron crocus
+GCA_000831365.1,1571165,Humulus lupulus var. lupulus,
+GCA_000830395.1,278022,Humulus lupulus var. cordifolius,
+GCA_002906115.4,58331,Quercus suber,cork oak
+GCA_003260165.1,37657,Silene latifolia,
+GCA_905175405.1,395843,Arabidopsis arenosa subsp. arenosa,
+GCA_016081115.1,99300,Rehmannia glutinosa,Chinese foxglove
+GCA_003795335.1,228173,Casuarina equisetifolia subsp. incana,
+GCA_013625405.1,55890,Petunia axillaris subsp. parodii,
+GCA_001447015.2,3343,Pinus lambertiana,sugar pine
+GCA_019593565.1,36777,Elaeagnus angustifolia,Russian olive
+GCA_002918425.1,3993,Euphorbia esula,leafy spurge
+GCA_019775975.1,50001,Sarracenia alata,yellow trumpets
+GCA_903772985.1,56029,Fraxinus mandshurica,Manchurian ash
+GCA_000327005.1,216990,Betula nana,alpine birch
+GCA_009812395.1,1181297,Zostera nigricaulis,
+GCA_020804685.1,38733,Streptochaeta angustifolia,
+GCA_004151065.2,62751,Larix sibirica,
+GCA_904814375.1,210380,Mesua ferrea,
+GCA_023512865.1,51255,Lonicera maackii,Amur honeysuckle
+GCA_903798285.1,490841,Fraxinus gooddingii,
+GCA_903798305.1,880137,Fraxinus griffithii,
+GCA_900406455.1,391730,Macropodium nivale,
+GCA_001484925.1,571359,Arabis nordmanniana,
+GCA_005862465.1,1505710,Beta patula,
+GCA_902829175.1,1094609,Fraxinus angustifolia subsp. angustifolia,
+GCA_902876705.1,490850,Fraxinus sieboldiana,lu shan qin
+GCA_009866635.1,1477589,Rafflesia leonardi,
+GCA_000632695.1,63629,Oryza minuta,
+GCA_000723945.1,4100,Nicotiana benthamiana,
+GCA_023384795.1,4571,Triticum turgidum,English wheat
+GCA_900491625.1,993104,Picea abies var. abies,
+GCA_000180895.1,157791,Vigna radiata,mung bean
+GCA_900143225.1,3349,Pinus sylvestris,Scots pine
+GCA_000280985.1,160366,Penstemon davidsonii,
+GCA_007814785.1,123599,Larix gmelinii,
+GCA_000280965.1,160369,Penstemon dissectus,
+GCA_000281025.1,160371,Penstemon fruticosus,
+GCA_000281005.1,388136,Penstemon cyananthus,
+GCA_007814465.1,501393,Larix cajanderi,
