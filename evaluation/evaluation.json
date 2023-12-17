@@ -1,0 +1,430 @@
+[
+  {
+    "organism_name": "Chrysanthemum makinoi",
+    "description": "A species of chrysanthemum, known for its ornamental flowers."
+  },
+  {
+    "organism_name": "Sesamum schinzianum",
+    "description": "A species of sesame plant, cultivated for its edible seeds."
+  },
+  {
+    "organism_name": "Trifolium repens",
+    "description": "White clover, a legume commonly used as a forage crop."
+  },
+  {
+    "organism_name": "Cucumis melo",
+    "description": "Cantaloupe, a type of melon with sweet, orange flesh."
+  },
+  {
+    "organism_name": "Cornus florida",
+    "description": "Flowering dogwood, a deciduous tree known for its showy flowers."
+  },
+  {
+    "organism_name": "Erythroxylum ulei",
+    "description": "A species of erythroxylum, a genus that includes plants known for the production of cocaine."
+  },
+  {
+    "organism_name": "Acacia melanoxylon",
+    "description": "wood acacia, a tree species valued for its timber."
+  },
+  {
+    "organism_name": "Boswellia sacra",
+    "description": "Frankincense tree, known for producing frankincense resin."
+  },
+  {
+    "organism_name": "Apium graveolens Rapaceum Group",
+    "description": "Celeriac, a variety of celery cultivated for its edible root."
+  },
+  {
+    "organism_name": "Vigna angularis var. angularis",
+    "description": "Adzuki bean, a type of legume."
+  },
+  {
+    "organism_name": "Salix suchowensis",
+    "description": "Suchow willow, a species of willow tree."
+  },
+  {
+    "organism_name": "Dalbergia oliveri",
+    "description": "A species of dalbergia, a genus known for valuable timber."
+  },
+  {
+    "organism_name": "Triticum aestivum",
+    "description": "Common wheat, a widely cultivated cereal grain."
+  },
+  {
+    "organism_name": "Nicotiana attenuata",
+    "description": "Wild tobacco, known for its ecological interactions with herbivores."
+  },
+  {
+    "organism_name": "Zostera marina",
+    "description": "Eelgrass, a marine flowering plant."
+  },
+  {
+    "organism_name": "Chimonanthus salicifolius",
+    "description": "Willow-leaved wintersweet, a deciduous shrub with fragrant flowers."
+  },
+  {
+    "organism_name": "Tagetes erecta",
+    "description": "African marigold, a flowering plant used ornamentally and in traditional medicine."
+  },
+  {
+    "organism_name": "Arctium lappa",
+    "description": "Greater burdock, a biennial plant with burrs that stick to clothing."
+  },
+  {
+    "organism_name": "Zea mays",
+    "description": "Maize or corn, a cereal grain."
+  },
+  {
+    "organism_name": "Raphanus sativus",
+    "description": "Radish, an edible root vegetable."
+  },
+  {
+    "organism_name": "Brassica oleracea var. oleracea",
+    "description": "Wild cabbage, the ancestor of many cultivated cabbage varieties."
+  },
+  {
+    "organism_name": "Hura crepitans",
+    "description": "Sandbox tree, known for exploding seed pods."
+  },
+  {
+    "organism_name": "Rosaceae sp.",
+    "description": "A species within the rose family, which includes many fruit-bearing plants."
+  },
+  {
+    "organism_name": "Ochetophila trinervis",
+    "description": "A plant species with three-veined leaves."
+  },
+  {
+    "organism_name": "Ficus carica",
+    "description": "Common fig, a deciduous tree known for its sweet fruit."
+  },
+  {
+    "organism_name": "Oropetium thomaeum",
+    "description": "A species of grass."
+  },
+  {
+    "organism_name": "Capsicum annuum",
+    "description": "Bell pepper, a type of chili pepper."
+  },
+  {
+    "organism_name": "Geum urbanum",
+    "description": "Wood avens, a flowering plant in the rose family."
+  },
+  {
+    "organism_name": "Panicum miliaceum",
+    "description": "Proso millet, a cereal grain."
+  },
+  {
+    "organism_name": "Gossypium arboreum",
+    "description": "Tree cotton, a cotton species."
+  },
+  {
+    "organism_name": "Parasponia andersonii",
+    "description": "A nitrogen-fixing tree."
+  },
+  {
+    "organism_name": "Vitis x doaniana",
+    "description": "A hybrid grapevine."
+  },
+  {
+    "organism_name": "Oryza rufipogon",
+    "description": "Wild rice, a species of rice."
+  },
+  {
+    "organism_name": "Triticum dicoccoides",
+    "description": "Emmer wheat, an ancient wheat variety."
+  },
+  {
+    "organism_name": "Solanum verrucosum",
+    "description": "A species of nightshade."
+  },
+  {
+    "organism_name": "Cichorium intybus",
+    "description": "Common chicory, a woody herbaceous plant."
+  },
+  {
+    "organism_name": "Oryza sativa",
+    "description": "Rice, a staple food for a large part of the world's population."
+  },
+  {
+    "organism_name": "Brachypodium distachyon",
+    "description": "Purple false brome, a grass species used in research."
+  },
+  {
+    "organism_name": "Vitis sp.",
+    "description": "A species within the grapevine genus."
+  },
+  {
+    "organism_name": "Castanea mollissima",
+    "description": "Chinese chestnut, a deciduous tree."
+  },
+  {
+    "organism_name": "Solanum lycopersicum var. cerasiforme",
+    "description": "Cherry tomato, a small, sweet variety of tomato."
+  },
+  {
+    "organism_name": "Dioscorea cayenensis subsp. rotundata",
+    "description": "White yam, an edible tuber."
+  },
+  {
+    "organism_name": "Capsicum annuum var. annuum",
+    "description": "(Repeated)"
+  },
+  {
+    "organism_name": "Hordeum vulgare subsp. vulgare",
+    "description": "Two-rowed barley, a cereal grain."
+  },
+  {
+    "organism_name": "Erythroxylum subrotundum",
+    "description": "A species of erythroxylum."
+  },
+  {
+    "organism_name": "Iberis amara",
+    "description": "Wild candytuft, a flowering plant."
+  },
+  {
+    "organism_name": "Vitis vinifera",
+    "description": "Common grape vine, cultivated for grapes."
+  },
+  {
+    "organism_name": "Arabidopsis thaliana",
+    "description": "A small flowering plant widely used in scientific research."
+  },
+  {
+    "organism_name": "Erythroxylum carthagenense",
+    "description": "A species of erythroxylum."
+  },
+  {
+    "organism_name": "Cymbopogon citratus",
+    "description": "Lemongrass, an aromatic herb used in culinary and medicinal applications."
+  },
+  {
+    "organism_name": "Arachis ipaensis",
+    "description": "Wild peanut, a legume."
+  },
+  {
+    "organism_name": "Cynanchum wilfordii",
+    "description": "A species of milkweed."
+  },
+  {
+    "organism_name": "Triticum turgidum",
+    "description": "Durum wheat, a hard wheat variety."
+  },
+  {
+    "organism_name": "Hippophae gyantsensis",
+    "description": "Tibetan sea buckthorn, a deciduous shrub."
+  },
+  {
+    "organism_name": "Vernicia montana",
+    "description": "Tung tree, a source of tung oil."
+  },
+  {
+    "organism_name": "Fraxinus pennsylvanica",
+    "description": "Green ash, a species of ash tree."
+  },
+  {
+    "organism_name": "Senecio squalidus",
+    "description": "Oxford ragwort, a species of flowering plant."
+  },
+  {
+    "organism_name": "Sorghum bicolor",
+    "description": "Sorghum, a cereal grain."
+  },
+  {
+    "organism_name": "Zea mays subsp. mays",
+    "description": "(Repeated)"
+  },
+  {
+    "organism_name": "Carthamus tinctorius",
+    "description": "Safflower, a thistle-like plant used for oil and dye."
+  },
+  {
+    "organism_name": "Arachis cardenasii",
+    "description": "A wild peanut species."
+  },
+  {
+    "organism_name": "Theobroma cacao",
+    "description": "Cocoa tree, the source of chocolate."
+  },
+  {
+    "organism_name": "Flueggea neowawraea",
+    "description": "A flowering plant."
+  },
+  {
+    "organism_name": "Chenopodium suecicum",
+    "description": "A species of goosefoot."
+  },
+  {
+    "organism_name": "Solanum arcanum",
+    "description": "A species of nightshade."
+  },
+  {
+    "organism_name": "Erythroxylum haughtii",
+    "description": "A species of ery"
+  },
+  {
+    "organism_name": "make this to array format",
+    "description": "(Incomplete entry, unclear description)"
+  },
+  {
+    "organism_name": "array",
+    "description": "(Incomplete entry, unclear description)"
+  },
+  {
+    "organism_name": "Erythroxylum subrotundum",
+    "description": "A species of erythroxylum."
+  },
+  {
+    "organism_name": "Iberis amara",
+    "description": "Wild candytuft, a flowering plant."
+  },
+  {
+    "organism_name": "Vitis vinifera",
+    "description": "Common grape vine, cultivated for grapes."
+  },
+  {
+    "organism_name": "Arabidopsis thaliana",
+    "description": "A small flowering plant widely used in scientific research."
+  },
+  {
+    "organism_name": "Erythroxylum carthagenense",
+    "description": "A species of erythroxylum."
+  },
+  {
+    "organism_name": "Cymbopogon citratus",
+    "description": "Lemongrass, an aromatic herb used in culinary and medicinal applications."
+  },
+  {
+    "organism_name": "Arachis ipaensis",
+    "description": "Wild peanut, a legume."
+  },
+  {
+    "organism_name": "Cynanchum wilfordii",
+    "description": "A species of milkweed."
+  },
+  {
+    "organism_name": "Triticum turgidum",
+    "description": "Durum wheat, a hard wheat variety."
+  },
+  {
+    "organism_name": "Hippophae gyantsensis",
+    "description": "Tibetan sea buckthorn, a deciduous shrub."
+  },
+  {
+    "organism_name": "Vernicia montana",
+    "description": "Tung tree, a source of tung oil."
+  },
+  {
+    "organism_name": "Fraxinus pennsylvanica",
+    "description": "Green ash, a species of ash tree."
+  },
+  {
+    "organism_name": "Senecio squalidus",
+    "description": "Oxford ragwort, a species of flowering plant."
+  },
+  {
+    "organism_name": "Sorghum bicolor",
+    "description": "Sorghum, a cereal grain."
+  },
+  {
+    "organism_name": "Zea mays subsp. mays",
+    "description": "(Repeated)"
+  },
+  {
+    "organism_name": "Carthamus tinctorius",
+    "description": "Safflower, a thistle-like plant used for oil and dye."
+  },
+  {
+    "organism_name": "Arachis cardenasii",
+    "description": "A wild peanut species."
+  },
+  {
+    "organism_name": "Theobroma cacao",
+    "description": "Cocoa tree, the source of chocolate."
+  },
+  {
+    "organism_name": "Flueggea neowawraea",
+    "description": "A flowering plant."
+  },
+  {
+    "organism_name": "Chenopodium suecicum",
+    "description": "A species of goosefoot."
+  },
+  {
+    "organism_name": "Solanum arcanum",
+    "description": "A species of nightshade."
+  },
+  {
+    "organism_name": "Erythroxylum haughtii",
+    "description": "A species of erythroxylum."
+  },
+  {
+    "organism_name": "Brassica nigra",
+    "description": "Black mustard, a mustard plant."
+  },
+  {
+    "organism_name": "Simmondsia chinensis",
+    "description": "Jojoba, a shrub producing jojoba oil."
+  },
+  {
+    "organism_name": "Przewalskia tangutica",
+    "description": "A species of flowering plant."
+  },
+  {
+    "organism_name": "Wollemia nobilis",
+    "description": "Wollemi pine, a rare and ancient conifer."
+  },
+  {
+    "organism_name": "Poaceae sp.",
+    "description": "A species within the grass family."
+  },
+  {
+    "organism_name": "Musa beccarii",
+    "description": "A species of banana."
+  },
+  {
+    "organism_name": "Sisymbrium irio",
+    "description": "London rocket, a flowering plant."
+  },
+  {
+    "organism_name": "Microstegium vimineum",
+    "description": "Japanese stiltgrass, an invasive grass species."
+  },
+  {
+    "organism_name": "Prunus persica",
+    "description": "Peach, a deciduous tree and its fruit."
+  },
+  {
+    "organism_name": "Vachellia pachyceras",
+    "description": "A species of acacia."
+  },
+  {
+    "organism_name": "Nicotiana glauca",
+    "description": "Tree tobacco, a species of wild tobacco."
+  },
+  {
+    "organism_name": "Paspalum vaginatum",
+    "description": "Seashore paspalum, a grass species."
+  },
+  {
+    "organism_name": "Asclepias incarnata",
+    "description": "Swamp milkweed, a flowering plant."
+  },
+  {
+    "organism_name": "Glycine soja",
+    "description": "Wild soybean, a wild relative of cultivated soybean."
+  },
+  {
+    "organism_name": "Aegilops speltoides",
+    "description": "A wild wheat species."
+  },
+  {
+    "organism_name": "Musa itinerans",
+    "description": "Burmese banana, a species of wild banana."
+  },
+  {
+    "organism_name": "Beta vulgaris subsp. vulgaris",
+    "description": "Sugar beet, cultivated for sugar production."
+  }
+]
